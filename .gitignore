@@ -1,2 +1,2 @@
-gitignore/sales_data.csv
-gitignore/temp.ipynb
+/gitignore/
+sales_data.csv
