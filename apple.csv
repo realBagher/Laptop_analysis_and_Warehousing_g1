@@ -1,0 +1,841 @@
+manufactor,name,ename,aprice,sprice,laptop_size,laptop_weight,laptop_type,Screen_size,Screen_type,Screen_resolution,CPU_manufacturer,CPU_series,CPU_model,CPU_frequency,cache_memory,RAM,RAM_type,hard_disk,internal_memory,graphic_manufacturer,graphic_model,graphic_memory,Laptop_id
+apple,"
+MacBook Air اپل 13 اینچ مدل MGND3 2020 پردازنده M1 رم 8GB حافظه 256GB SSD
+","
+Apple MacBook Air MGND3 2020 - 13 inch Laptop
+",33379000,33499000,304.1x212.4x16.1 میلی‌متر,1.29,مک‌بوک,13.3,IPS LED-backlit LCD,1600 * 2560,Apple,M1,Apple M1 Chip,,,8 گیگابایت,,256 گیگابایت,SSD,Apple,7core Apple-designed integrated GPU,,114431
+apple,"
+MacBook Air اپل 13 اینچ مدل MGN63 2020 پردازنده M1 رم 8GB حافظه 256GB SSD
+","
+Apple MacBook Air MGN63 2020 M1 256 - 13 inch Laptop
+",61300000,62300000,30.41x21.24x1.61 سانتی ‌متر,1.29,مک‌بوک,13.3,Retina display,1600 * 2560,Apple,M1,Apple M1 Chip,,,8 گیگابایت,,256 گیگابایت,SSD,Apple,,,114682
+apple,"
+لپ تاپ اپل 14 اینچ مدل Mac Book Pro 14inch MKGP3 پردازنده M1 Pro رم 16GB حافظه 512GB SSD
+","
+Apple MacBook Pro 14‑inch MKGP3 M1 Pro 16GB 512GB SSD Laptop
+",119000000,120000000,312x212.2x156 میلی‌متر,1.6,مک‌بوک,14.2,Liquid Retina XDR display,3024*1964,Apple,M1 Pro,M1 Pro with 8-core CPU,,,16 گیگابایت,unified memory,512 گیگابایت,SSD,Apple,14core GPU16core Neural Engine200GB/s memory bandwidth,,122111
+apple,"
+لپ تاپ اپل 14 اینچ مدل Mac Book Pro 14inch MKGR3 پردازنده M1 Pro رم 16GB حافظه 512GB SSD
+","
+Apple MacBook Pro 14‑inch MKGR3 M1 Pro 16GB 512GB SSD Laptop
+",75000000,76000000,312x212.2x156 میلی‌متر,1.6,مک‌بوک,14.2,Liquid Retina XDR display,3024*1964,Apple,M1 Pro,M1 Pro with 8-core CPU,,,16 گیگابایت,unified memory,512 گیگابایت,SSD,Apple,14core GPU16core Neural Engine200GB/s memory bandwidth,,122112
+apple,"
+لپ تاپ اپل 14 اینچ مدل Mac Book Pro 14inch MKGQ3 پردازنده M1 Pro رم 16GB حافظه 1TB SSD
+","
+Apple MacBook Pro 14‑inch MKGQ3 M1 Pro 16GB 1TB SSD Laptop
+",119000000,120000000,312x212.2x156 میلی‌متر,1.6,مک‌بوک,14.2,Liquid Retina XDR display,3024*1964,Apple,M1 Pro,M1 Pro with 10-core CPU,,,16 گیگابایت,unified memory,1 ترابایت,SSD,Apple,16core GPU16core Neural Engine200GB/s memory bandwidth,,122113
+apple,"
+لپ تاپ اپل 14 اینچ مدل Mac Book Pro 14inch MKGT3 پردازنده M1 Pro رم 16GB حافظه 1TB SSD
+","
+Apple MacBook Pro 14‑inch MKGT3 M1 Pro 16GB 1TB SSD Laptop
+",90899000,91199000,312x212.2x156 میلی‌متر,1.6,مک‌بوک,14.2,Liquid Retina XDR display,3024*1964,Apple,M1 Pro,M1 Pro with 10-core CPU,,,16 گیگابایت,unified memory,1 ترابایت,SSD,Apple,16core GPU16core Neural Engine200GB/s memory bandwidth,,122114
+apple,"
+لپ تاپ اپل 16 اینچ مدل Mac Book Pro 16inch MK183 پردازنده M1 Pro رم 16GB حافظه 512GB SSD
+","
+Apple MacBook Pro 16‑inch MK183 M1 Pro 16GB 512GB SSD Laptop
+",82300000,83300000,355x248x168 میلی‌متر,2.2,مک‌بوک,16.2,Liquid Retina XDR display,3456*2234,Apple,M1 Pro,M1 Pro with 10-core CPU,,,16 گیگابایت,unified memory,512 گیگابایت,SSD,Apple,16core GPU16core Neural Engine200GB/s memory bandwidth,,122115
+apple,"
+لپ تاپ اپل 16 اینچ مدل Mac Book Pro 16inch MK1E3 پردازنده M1 Pro رم 16GB حافظه 512GB SSD
+","
+Apple MacBook Pro 16‑inch MK1E3 M1 Pro 16GB 512GB SSD Laptop
+",70000000,71000000,355x248x168 میلی‌متر,2.2,مک‌بوک,16.2,Liquid Retina XDR display,3456*2234,Apple,M1 Pro,M1 Pro with 10-core CPU,,,16 گیگابایت,unified memory,512 گیگابایت,SSD,Apple,16core GPU16core Neural Engine200GB/s memory bandwidth,,122116
+apple,"
+لپ تاپ اپل 16 اینچ مدل Mac Book Pro 16inch MK193 پردازنده M1 Pro رم 16GB حافظه 1TB SSD
+","
+Apple MacBook Pro 16‑inch MK193 M1 Pro 16GB 1TB SSD Laptop
+",70000000,71000000,355x248x168 میلی‌متر,2.2,مک‌بوک,16.2,Liquid Retina XDR display,3456*2234,Apple,M1 Pro,M1 Pro with 10-core CPU,,,16 گیگابایت,unified memory,1 ترابایت,SSD,Apple,16core GPU16core Neural Engine200GB/s memory bandwidth,,122117
+apple,"
+لپ تاپ اپل 13.3 اینچی مدل Apple MacBook Pro 2022 MNEH3 پردازنده M2 رم 8GB حافظه 256GB SSD
+","
+Apple MacBook Pro 2022 13.3"" MNEH3 M2 8GB 256GB SSD Laptop
+",46075000,46300000,1.56*30.41*21.24 سانتی ‌متر,1.4,مک‌بوک,13.3,13.3inch (diagonal) LED-backlit display with IPS technology,1600 * 2560,Apple,M2,"M2 chip with 8‑core CPU, 10‑core GPU, 16‑core Neural Engine",,,8 گیگابایت,unified memory,256 گیگابایت,SSD,Apple,10core GPU16-core Neural Engine100GB/s memory bandwidth,,125674
+apple,"
+لپ تاپ اپل 13.3 اینچی مدل Apple MacBook Pro 2022 MNEJ3 پردازنده M2 رم 8GB حافظه 512GB SSD
+","
+Apple MacBook Pro 2022 13.3"" MNEJ3 M2 8GB 512GB SSD Laptop
+",56888000,57888000,1.56*30.41*21.24 سانتی ‌متر,1.4,مک‌بوک,13.3,13.3inch (diagonal) LED-backlit display with IPS technology,1600 * 2560,Apple,M2,"M2 chip with 8‑core CPU, 10‑core GPU, 16‑core Neural Engine",,,8 گیگابایت,unified memory,512 گیگابایت,SSD,Apple,10core GPU16-core Neural Engine100GB/s memory bandwidth,,125675
+apple,"
+لپ تاپ اپل 13.3 اینچی مدل Apple MacBook Pro 2022 MNEQ3 پردازنده M2 رم 8GB حافظه 512GB SSD
+","
+Apple MacBook Pro 2022 13.3"" MNEQ3 M2 8GB 512GB SSD Laptop
+",66800000,67800000,1.56*30.41*21.24 سانتی ‌متر,1.4,مک‌بوک,13.3,13.3inch (diagonal) LED-backlit display with IPS technology,1600 * 2560,Apple,M2,"M2 chip with 8‑core CPU, 10‑core GPU, 16‑core Neural Engine",,,8 گیگابایت,unified memory,512 گیگابایت,SSD,Apple,10core GPU16-core Neural Engine100GB/s memory bandwidth,,125676
+apple,"
+لپ تاپ اپل 13.6 اینچی مدل Apple MacBook Air 2022 Space Gray MLXW3  پردازنده M2 رم 8GB حافظه 256GB SSD
+","
+Apple MacBook Air 2022 Space Gray MLXW3 M2 8GB 256GB SSD 13.6 inch Laptop
+",80300000,81300000,30.41x21.24x1.11 سانتی ‌متر,1.24,مک‌بوک,13.6,13.6inch (diagonal) LED-backlit display with IPS technology ,1600 * 2560,Apple,M2,8core CPU with 4 performance cores and 4 efficiency cores/8core GPU,,,8 گیگابایت,unified memory,256 گیگابایت,SSD,Apple,,,125330
+apple,"
+لپ تاپ اپل 13.6 اینچی مدل Apple MacBook Air 2022 Silver MLXY3 پردازنده M2 رم 8GB حافظه 256GB SSD
+","
+Apple MacBook Air 2022 Silver MLXY3 M2 8GB 256GB SSD 13.6 inch Laptop
+",50200000,51200000,30.41x21.24x1.11 سانتی ‌متر,1.24,مک‌بوک,13.6,13.6inch (diagonal) LED-backlit display with IPS technology ,1600 * 2560,Apple,M2,8core CPU with 4 performance cores and 4 efficiency cores/8core GPU,,,8 گیگابایت,unified memory,256 گیگابایت,SSD,Apple,,,125331
+apple,"
+لپ تاپ اپل 13.6 اینچی مدل Apple MacBook Air 2022 Midnight MLY43  پردازنده M2 رم 8GB حافظه 512GB SSD گرافیک 10Core GPU
+","
+Apple MacBook Air 2022 Midnight MLY43 M2 8GB 512GB SSD 10-Core GPU 13.6 inch Laptop
+",44789000,44899000,30.41x21.24x1.11 سانتی ‌متر,1.24,مک‌بوک,13.6,13.6inch (diagonal) LED-backlit display with IPS technology ,1600 * 2560,Apple,M2,8core CPU with 4 performance cores and 4 efficiency cores/10core GPU,,,8 گیگابایت,unified memory,512 گیگابایت,SSD,Apple,10 هسته ای,,125332
+apple,"
+لپ تاپ اپل 13.6 اینچی مدل Apple MacBook Air 2022 Starlight MLY23 پردازنده M2 رم 8GB حافظه 512GB SSD گرافیک 10Core GPU
+","
+Apple MacBook Air 2022 Starlight MLY23 M2 8GB 512GB SSD 10-Core GPU 13.6 inch Laptop
+",58800000,59000000,30.41x21.24x1.11 سانتی ‌متر,1.24,مک‌بوک,13.6,13.6inch (diagonal) LED-backlit display with IPS technology ,1600 * 2560,Apple,M2,8core CPU with 4 performance cores and 4 efficiency cores/10core GPU,,,8 گیگابایت,unified memory,512 گیگابایت,SSD,Apple,10 هسته ای,,125333
+apple,"
+لپ تاپ اپل 13.6 اینچی مدل Apple MacBook Air 2022 Space Gray MLXX3 پردازنده M2 رم 8GB حافظه 512GB SSD گرافیک 10Core GPU
+","
+Apple MacBook Air 2022 Space Gray MLXX3 M2 8GB 512GB SSD 10-Core GPU 13.6 inch Laptop
+",73000000,74000000,30.41x21.24x1.11 سانتی ‌متر,1.24,مک‌بوک,13.6,13.6inch (diagonal) LED-backlit display with IPS technology ,1600 * 2560,Apple,M2,8core CPU with 4 performance cores and 4 efficiency cores/10core GPU,,,8 گیگابایت,unified memory,512 گیگابایت,SSD,Apple,10 هسته ای,,125334
+apple,"
+لپ تاپ اپل 13.6 اینچی مدل Apple MacBook Air 2022 Silver MLY03 پردازنده M2 رم 8GB حافظه 512GB SSD گرافیک 10Core GPU
+","
+Apple MacBook Air 2022 Silver MLY03 M2 8GB 512GB SSD 10-Core GPU 13.6 inch Laptop
+",95000000,95900000,30.41x21.24x1.11 سانتی ‌متر,1.24,مک‌بوک,13.6,13.6inch (diagonal) LED-backlit display with IPS technology ,1600 * 2560,Apple,M2,8core CPU with 4 performance cores and 4 efficiency cores/10core GPU,,,8 گیگابایت,unified memory,512 گیگابایت,SSD,Apple,10 هسته ای,,125335
+apple,"
+لپ تاپ 16 اینچ اپل MacBook Pro 16-inch CTO Core i7 32GB RAM 512GB SSD 4GB GPU دارای تاچ بار
+","
+MacBook Pro 16-inch CTO Core i7 32GB RAM 512GB SSD 4GB GPU with Touch Bar and Retina Display Laptop
+",54188000,55188000,16 * 245 * 357 میلیمتر,,مک‌بوک,,Retina displayLED‑backlit display with IPS,3072‑by‑1920 native resolution at 226 pixels ,INTEL,Core i7,2.6 گیگا هرتز,4.5 گیگاهرتز,,32 گیگابایت,DDR4,512 گیگابایت,SSD,AMD,AMD Radeon Pro 5300M with 4GB of GDDR6Intel UHD Graphics 630,4 گیگابایت,132034
+apple,"
+لپ تاپ اپل 15.3 اینچی مدل Apple MacBook Air 2023 Midnight MQKW3  پردازنده M2 رم 8GB حافظه 256GB SSD
+","
+Apple MacBook Air 2023 Midnight MQKW3 M2 8GB 256GB SSD 15-inch Laptop
+",49809000,49989000,1.15x34.04x23.76 سانتی ‌متر,1.51,مک‌بوک,,15.3inch Liquid Retina display with True Tone,1800 * 2880,Apple,M2,8core CPU with 4 performance cores and 4 efficiency cores/10core GPU,,,8 گیگابایت,unified memory,256 گیگابایت,SSD,Apple,10-core GPU,,132893
+apple,"
+لپ تاپ اپل 15.3 اینچی مدل Apple MacBook Air 2023 Space Gray MQKP3  پردازنده M2 رم 8GB حافظه 256GB SSD
+","
+Apple MacBook Air 2023 Space Gray MQKP3 M2 8GB 256GB SSD 15-inch Laptop
+",67864000,67999000,1.15x34.04x23.76 سانتی ‌متر,1.51,مک‌بوک,,15.3inch Liquid Retina display with True Tone,1800 * 2880,Apple,M2,8core CPU with 4 performance cores and 4 efficiency cores/10core GPU,,,8 گیگابایت,unified memory,256 گیگابایت,SSD,Apple,10-core GPU,,132894
+apple,"
+لپ تاپ اپل 15.3 اینچی مدل Apple MacBook Air 2023 Silver MQKR3  پردازنده M2 رم 8GB حافظه 256GB SSD
+","
+Apple MacBook Air 2023 Silver MQKR3 M2 8GB 256GB SSD 15-inch Laptop
+",67864000,67999000,1.15x34.04x23.76 سانتی ‌متر,1.51,مک‌بوک,,15.3inch Liquid Retina display with True Tone,1800 * 2880,Apple,M2,8core CPU with 4 performance cores and 4 efficiency cores/10core GPU,,,8 گیگابایت,unified memory,256 گیگابایت,SSD,Apple,10-core GPU,,132895
+apple,"
+لپ تاپ اپل 15.3 اینچی مدل Apple MacBook Air 2023 Starlight MQKU3  پردازنده M2 رم 8GB حافظه 256GB SSD
+","
+Apple MacBook Air 2023 Starlight MQKU3 M2 8GB 256GB SSD 15-inch Laptop
+",73300000,74300000,1.15x34.04x23.76 سانتی ‌متر,1.51,مک‌بوک,,15.3inch Liquid Retina display with True Tone,1800 * 2880,Apple,M2,8core CPU with 4 performance cores and 4 efficiency cores/10core GPU,,,8 گیگابایت,unified memory,256 گیگابایت,SSD,Apple,10-core GPU,,132896
+apple,"
+لپ تاپ اپل 15.3 اینچی مدل Apple MacBook Air 2023 Silver MQKT3 پردازنده M2 رم 8GB حافظه 512GB SSD
+","
+Apple MacBook Air 2023 Silver MQKT3 M2 8GB 512GB SSD 15-inch Laptop
+",58730000,70300000,1.15x34.04x23.76 سانتی ‌متر,1.51,مک‌بوک,,15.3inch Liquid Retina display with True Tone,1800 * 2880,Apple,M2,8core CPU with 4 performance cores and 4 efficiency cores/10core GPU,,,8 گیگابایت,unified memory,512 گیگابایت,SSD,Apple,10-core GPU,,132898
+apple,"
+لپ تاپ اپل 15.3 اینچی مدل Apple MacBook Air 2023 Starlight MQKV3 پردازنده M2 رم 8GB حافظه 512GB SSD
+","
+Apple MacBook Air 2023 Starlight MQKV3 M2 8GB 512GB SSD 15-inch Laptop
+",70900000,71000000,1.15x34.04x23.76 سانتی ‌متر,1.51,مک‌بوک,,15.3inch Liquid Retina display with True Tone,1800 * 2880,Apple,M2,8core CPU with 4 performance cores and 4 efficiency cores/10core GPU,,,8 گیگابایت,unified memory,512 گیگابایت,SSD,Apple,10-core GPU,,132899
+apple,"
+لپ تاپ اپل 15.3 اینچی مدل Apple MacBook Air 2023 Midnight MQKX3 پردازنده M2 رم 8GB حافظه 512GB SSD
+","
+Apple MacBook Air 2023 Midnight MQKX3 M2 8GB 512GB SSD 15-inch Laptop
+",69300000,70300000,1.15x34.04x23.76 سانتی ‌متر,1.51,مک‌بوک,,15.3inch Liquid Retina display with True Tone,1800 * 2880,Apple,M2,8core CPU with 4 performance cores and 4 efficiency cores/10core GPU,,,8 گیگابایت,unified memory,512 گیگابایت,SSD,Apple,10-core GPU,,132900
+apple,"
+لپ تاپ اپل 16 اینچ مدل Mac Book Pro 2023 16inch MNW83 پردازنده M2 Pro رم 16GB حافظه 512GB SSD
+","
+Apple MacBook Pro 2023 16‑inch MNW83 M2 Pro 16GB 512GB SSD Laptop
+",85180000,86180000,355x248x168 میلی‌متر,2.5,مک‌بوک,16.2,Retina - IPS LED-backlit LCD,3456*2234,Apple,M2 Pro,M2 Pro,2.0 گیگا هرتز,,16 گیگابایت,unified memory,512 گیگابایت,SSD,Apple,دارای 19 هسته پردازش گرافیکی,,134067
+apple,"
+لپ تاپ اپل 16 اینچ مدل Mac Book Pro 2023 16inch MNWC3 پردازنده M2 Pro رم 16GB حافظه 512GB SSD
+","
+Apple MacBook Pro 2023 16‑inch MNWC3 M2 Pro 16GB 512GB SSD Laptop
+",127000000,154800000,355x248x168 میلی‌متر,2.5,مک‌بوک,16.2,Retina - IPS LED-backlit LCD,3456*2234,Apple,M2 Pro,M2 Pro,2.0 گیگا هرتز,,16 گیگابایت,unified memory,512 گیگابایت,SSD,Apple,دارای 19 هسته پردازش گرافیکی,,134075
+apple,"
+لپ تاپ اپل 16 اینچ مدل Mac Book Pro 2023 16inch MNWD3 پردازنده M2 Pro رم 16GB حافظه 1TB SSD
+","
+Apple MacBook Pro 2023 16‑inch MNWD3 M2 Pro 16GB 1TB SSD Laptop
+",139000000,140000000,355x248x168 میلی‌متر,2.5,مک‌بوک,16.2,Retina - IPS LED-backlit LCD,3456*2234,Apple,M2 Pro,M2 Pro,2.0 گیگا هرتز,,16 گیگابایت,unified memory,1 ترابایت,SSD,Apple,دارای 19 هسته پردازش گرافیکی,,134076
+apple,"
+لپ تاپ اپل 16 اینچ مدل Mac Book Pro 2023 16inch MNW93 پردازنده M2 Pro رم 16GB حافظه 1TB SSD
+","
+Apple MacBook Pro 2023 16‑inch MNW93 M2 Pro 16GB 1TB SSD Laptop
+",119000000,120000000,355x248x168 میلی‌متر,2.5,مک‌بوک,16.2,Retina - IPS LED-backlit LCD,3456*2234,Apple,M2 Pro,M2 Pro,2.0 گیگا هرتز,,16 گیگابایت,unified memory,1 ترابایت,SSD,Apple,دارای 19 هسته پردازش گرافیکی,,134077
+apple,"
+لپ تاپ اپل 14 اینچ مدل Mac Book Pro 2023 14inch MPHE3 پردازنده M2 Pro رم 16GB حافظه 512GB SSD
+","
+Apple MacBook Pro 2023 14‑inch MPHE3 M2 Pro 16GB 512GB SSD Laptop
+",63000000,64000000,1.55x31.26 x22.12 سانتیمتر,1.6,مک‌بوک,14.2,Retina - IPS LED-backlit LCD,3024*1964,Apple,M2 Pro,M2 Pro,2.0 گیگا هرتز,,16 گیگابایت,unified memory,512 گیگابایت,SSD,Apple,دارای 16 هسته پردازش گرافیکی,,134256
+apple,"
+لپ تاپ اپل 14 اینچ مدل Mac Book Pro 2023 14inch MPHH3 پردازنده M2 Pro رم 16GB حافظه 512GB SSD
+","
+Apple MacBook Pro 2023 14‑inch MPHH3 M2 Pro 16GB 512GB SSD Laptop
+",71864000,71999000,1.55x31.26 x22.12 سانتیمتر,1.6,مک‌بوک,14.2,Retina - IPS LED-backlit LCD,3024*1964,Apple,M2 Pro,M2 Pro,2.0 گیگا هرتز,,16 گیگابایت,unified memory,512 گیگابایت,SSD,Apple,دارای 16 هسته پردازش گرافیکی,,134257
+apple,"
+لپ تاپ اپل 14 اینچ مدل Mac Book Pro 2023 14inch MPHF3 پردازنده M2 Pro رم 16GB حافظه 1TB SSD
+","
+Apple MacBook Pro 2023 14‑inch MPHF3 M2 Pro 16GB 1TB SSD Laptop
+",119000000,120000000,1.55x31.26 x22.12 سانتیمتر,1.6,مک‌بوک,14.2,Retina - IPS LED-backlit LCD,3024*1964,Apple,M2 Pro,M2 Pro,2.0 گیگا هرتز,,16 گیگابایت,unified memory,1 ترابایت,SSD,Apple,دارای 19 هسته پردازش گرافیکی,,134258
+apple,"
+لپ تاپ اپل 14 اینچ مدل Mac Book Pro 2023 14inch MPHJ3 پردازنده M2 Pro رم 16GB حافظه 1TB SSD
+","
+Apple MacBook Pro 2023 14‑inch MPHJ3 M2 Pro 16GB 1TB SSD Laptop
+",104880000,105880000,1.55x31.26 x22.12 سانتیمتر,1.6,مک‌بوک,14.2,Retina - IPS LED-backlit LCD,3024*1964,Apple,M2 Pro,M2 Pro,2.0 گیگا هرتز,,16 گیگابایت,unified memory,1 ترابایت,SSD,Apple,دارای 19 هسته پردازش گرافیکی,,134259
+apple,"
+لپ تاپ اپل 16 اینچ مدل Mac Book Pro 2023 16inch MNWA3 پردازنده M2 Max (12C-38C) رم 32GB حافظه 1TB SSD
+","
+Apple MacBook Pro 2023 16‑inch MNWA3 M2 Max 12C-38C 32GB 1TB SSD Laptop
+",175200000,119000000,355x248x168 میلی‌متر,2.5,مک‌بوک,16.2,Retina - IPS LED-backlit LCD,3456*2234,Apple,M2 MAX,M2 MAX 12Core,2.0 گیگا هرتز,,32 گیگابایت,unified memory,1 ترابایت,SSD,Apple,دارای 38 هسته پردازش گرافیکی,,134275
+apple,"
+لپ تاپ اپل 16 اینچ مدل Mac Book Pro 2023 16inch MNWE3 پردازنده M2 Max (12C-38C) رم 32GB حافظه 1TB SSD
+","
+Apple MacBook Pro 2023 16‑inch MNWE3 M2 Max 12C-38C 32GB 1TB SSD Laptop
+",125500000,126000000,355x248x168 میلی‌متر,2.5,مک‌بوک,16.2,Retina - IPS LED-backlit LCD,3456*2234,Apple,M2 MAX,M2 MAX 12Core,2.0 گیگا هرتز,,32 گیگابایت,unified memory,1 ترابایت,SSD,Apple,دارای 38 هسته پردازش گرافیکی,,134276
+apple,"
+لپ تاپ اپل مک بوک ایر مدل MQD32
+","
+MacBook Air 2017 MQD32 13.3 inch Laptop
+",16288000,19500000,18 * 226 * 325 میلیمتر,1.34,مک‌بوک,13.3,900 * 1440,,INTEL,Core i5,1.8 گیگاهرتز,2.9 گیگا هرتز,,8 گیگابایت,DDR3,128 گیگابایت,SSD,Intel,HD Graphics 6000,,51807
+apple,"
+لپ تاپ اپل مک بوک پرو 2019 مدل MUHN2 دارای تاچ بار و صفحه نمایش رتینا
+","
+MacBook Pro 2019 MUHN2 Core i5 13 inch with Touch Bar and Retina Display Laptop
+",32500000,33000000,15 * 213 * 305 میلیمتر,1.37,مک‌بوک,13.3,IPS LCD,1600 * 2560,INTEL,Core i5,1.4 گیگاهرتز,3.9 گیگاهرتز,,8 گیگابایت,2133 مگا هرتز,128 گیگابایت,SSD,Intel,Intel Iris Plus Graphics 645,,73494
+apple,"
+لپ تاپ اپل مک بوک پرو 2019 مدل MV912 دارای تاچ بار و صفحه نمایش رتینا
+","
+MacBook Pro 2019  MV912 Core i9 15.4 inch with Touch Bar and Retina Display Laptop
+",69300000,70300000,15 * 240 * 349 میلیمتر,1.83,مک‌بوک,15.4,IPS LCD,1800 * 2880,INTEL,Core i9,2.3 گیگا هرتز,4.8 گیگاهرتز,,16 گیگابایت,DDR4,512 گیگابایت,SSD,AMD,Radeon Pro 560X GDDR5 ,4 گیگابایت,71664
+apple,"
+لپ تاپ 16 اینچ اپل مک بوک پرو 2019 مدل MVVJ2 دارای تاچ بار و صفحه نمایش رتینا
+","
+MacBook Pro 16-inch MVVJ2 Core i7 with Touch Bar and Retina Display Laptop
+",39330000,40330000,16 * 245 * 357 میلیمتر,,مک‌بوک,,Retina displayLED‑backlit display with IPS,3072‑by‑1920 native resolution at 226 pixels ,INTEL,Core i7,2.6 گیگا هرتز,4.5 گیگاهرتز,,16 گیگابایت,DDR4,512 گیگابایت,SSD,AMD,AMD Radeon Pro 5300M with 4GB of GDDR6Intel UHD Graphics 630,4 گیگابایت,87057
+apple,"
+لپ تاپ اپل مک بوک پرو مدل MPXT2 دارای صفحه نمایش رتینا
+","
+MacBook Pro 2017 MPXT2 13 inch with Retina Display Laptop
+",63100000,64100000,15 * 213 * 305 میلیمتر,1.37,مک‌بوک,13.3,IPS LCD,1600 * 2560,INTEL,Core i5,2.3 گیگا هرتز,3.6 گیگاهرتز,,8 گیگابایت,DDR3,256 گیگابایت,SSD,Intel,Iris Plus Graphics 640,,51799
+apple,"
+لپ تاپ اپل مک بوک پرو مدل MR932 دارای تاچ بار و صفحه نمایش رتینا
+","
+MacBook Pro 2018 MR932 15.4 inch with Touch Bar and Retina Display Laptop
+",12450000,12500000,15 * 241 * 351 میلیمتر,1.82,مک‌بوک,15.4,IPS LCD,1800 * 2880,INTEL,Core i7,2.2 گیگا هرتز,4.1 گیگاهرتز,,16 گیگابایت,DDR4,256 گیگابایت,SSD,AMD,Radeon Pro 555X GDDR5,4 گیگابایت,66954
+apple,"
+لپ تاپ اپل مک بوک پرو مدل MPXQ2 دارای صفحه نمایش رتینا
+","
+MacBook Pro 2017 MPXQ2 13 inch with Retina Display Laptop
+",30999000,65599000,15 * 213 * 305 میلیمتر,1.37,مک‌بوک,13.3,IPS LCD,1600 * 2560,INTEL,Core i5,2.3 گیگا هرتز,3.6 گیگاهرتز,,8 گیگابایت,DDR3,128 گیگابایت,SSD,Intel,Iris Plus Graphics 640,,51665
+apple,"
+لپ تاپ اپل مک بوک ایر مدل MQD42
+","
+MacBook Air 2017 MQD42 13.3 inch Laptop
+",16855000,17555000,18 * 226 * 325 میلیمتر,1.34,مک‌بوک,13.3,900 * 1440,,INTEL,Core i5,1.8 گیگاهرتز,2.9 گیگا هرتز,,8 گیگابایت,DDR3,256 گیگابایت,SSD,Intel,HD Graphics 6000,,51808
+apple,"
+لپ تاپ اپل مک بوک ایر 2019 مدل MVFH2
+","
+MacBook Air 2019 MVFH2 13.3 inch with Retina Display Laptop
+",21250000,21300000,305 * 15 * 305 میلیمتر,1.25,مک‌بوک,13.3,IPS,1600 * 2560,INTEL,Core i5,1.6 گیگاهرتز,3.6 گیگاهرتز,,8 گیگابایت,DDR3,128 گیگابایت,SSD,Intel,UHD Graphics 617,,73135
+apple,"
+لپ تاپ اپل مک بوک پرو 2019 مدل MUHP2 دارای تاچ بار و صفحه نمایش رتینا
+","
+MacBook Pro 2019 MUHP2 Core i5 13 inch with Touch Bar and Retina Display Laptop
+",34433000,35433000,15 * 213 * 305 میلیمتر,1.37,مک‌بوک,13.3,IPS LCD,1600 * 2560,INTEL,Core i5,1.4 گیگاهرتز,3.9 گیگاهرتز,,8 گیگابایت,2133 مگا هرتز,256 گیگابایت,SSD,AMD,Intel Iris Plus Graphics 645,,74293
+apple,"
+لپ تاپ اپل مک بوک پرو مدل MR942 دارای تاچ بار و صفحه نمایش رتینا
+","
+MacBook Pro 2018  MR942 15.4 inch with Touch Bar and Retina Display Laptop
+",35888000,20099000,15 * 241 * 351 میلیمتر,1.82,مک‌بوک,15.4,IPS LCD,1800 * 2880,INTEL,Core i7,2.6 گیگا هرتز,4.3 گیگاهرتز,,16 گیگابایت,DDR4,512 گیگابایت,SSD,AMD,Radeon Pro 560X GDDR5,4 گیگابایت,66953
+apple,"
+لپ تاپ اپل مک بوک ایر 2019 مدل MVFJ2
+","
+MacBook Air 2019 MVFJ2 13.3 inch with Retina Display Laptop
+",17083000,17233000,305 * 15 * 305 میلیمتر,1.25,مک‌بوک,13.3,IPS,1600 * 2560,INTEL,Core i5,1.6 گیگاهرتز,3.6 گیگاهرتز,,8 گیگابایت,2133 مگا هرتز,256 گیگابایت,SSD,Intel,UHD Graphics 617,,73546
+apple,"
+لپ تاپ اپل مک بوک پرو 2019 مدل MV962 دارای تاچ بار و صفحه نمایش رتینا
+","
+MacBook Pro 2019  MV962 Core i5 13 inch with Touch Bar and Retina Display Laptop
+",16855000,17555000,15 * 213 * 305 میلیمتر,1.37,مک‌بوک,13.3,IPS LCD,1600 * 2560,INTEL,Core i5,2.4 گیگا هرتز,4.1 گیگاهرتز,,8 گیگابایت,2133 مگا هرتز,256 گیگابایت,SSD,AMD,Intel Iris Plus Graphics 655,,72074
+apple,"
+لپ تاپ 16 اینچ اپل مک بوک پرو 2019 مدل MVVK2 دارای تاچ بار و صفحه نمایش رتینا
+","
+MacBook Pro 16-inch MVVK2 Core i9 with Touch Bar and Retina Display Laptop
+",16090000,16390000,16 * 245 * 357 میلیمتر,,مک‌بوک,,Retina displayLED‑backlit display with IPS,3072‑by‑1920 native resolution at 226 pixels ,INTEL,Core i9,2.3 گیگا هرتز,4.8 گیگاهرتز,,16 گیگابایت,DDR4,1 ترابایت,SSD,AMD,AMD Radeon Pro 5500M with 4GB of GDDR6Intel UHD Graphics 630,4 گیگابایت,87059
+apple,"
+لپ تاپ اپل مک بوک پرو مدل MPTT2 دارای تاچ بار و صفحه نمایش رتینا
+","
+MacBook Pro 2017 MPTT2 15.4 inch with Touch Bar and Retina Display Laptop
+",22550000,57888000,15 * 241 * 351 میلیمتر,1.8,مک‌بوک,15.4,IPS LCD,1800 * 2880,INTEL,Core i7,2.9 گیگا هرتز,3.9 گیگاهرتز,,16 گیگابایت,DDR3,512 گیگابایت,SSD,AMD Radeon ,Pro 560,4 گیگابایت,51806
+apple,"
+لپ تاپ اپل مک بوک پرو مدل ام اف 839
+","
+MacBook Pro MF839 13 inch with Retina Display Laptop
+",18200000,18500000,18 * 219 * 314 میلیمتر,1.58,مک‌بوک,13.3,IPS LCD,1600 * 2560,INTEL,Core i5,5th Generation-Broadwell,2.7 گیگا هرتز,3 مگابایت,8 گیگابایت,DDR3,128 گیگابایت,SSD,Intel,Iris Graphics 6100,,1406
+apple,"
+لپ تاپ اپل مک بوک پرو مدل MR9R2 دارای تاچ بار و صفحه نمایش رتینا
+","
+MacBook Pro 2018 MR9R2 13 inch with Touch Bar and Retina Display Laptop
+",24500000,29599000,15 * 213 * 305 میلیمتر,1.37,مک‌بوک,13.3,IPS LCD,1600 * 2560,INTEL,Core i5,2.3 گیگا هرتز,3.8 گیگاهرتز,,8 گیگابایت,DDR3,512 گیگابایت,SSD,Intel,Iris Plus Graphics 655,,66958
+apple,"
+لپ تاپ اپل مک بوک پرو مدل MLH12 دارای تاچ بار
+","
+MacBook Pro 2016 MLH12 13-inch with Touch Bar and Retina Display Laptop
+",21449000,21599000,14.9 * 212 * 304 میلیمتر,1.37,مک‌بوک,13.3,IPS LCD,1600 * 2560,INTEL,Core i5,2.9 گیگا هرتز,3.3 گیگاهرتز,,8 گیگابایت,DDR3,256 گیگابایت,SSD,Intel,Iris Graphics 550,,48412
+apple,"
+لپ تاپ 16 اینچ اپل مک بوک پرو 2019 مدل MVVM2 دارای تاچ بار و صفحه نمایش رتینا
+","
+MacBook Pro 16-inch MVVM2 Core i9 with Touch Bar and Retina Display Laptop
+",16000000,16100000,16 * 245 * 357 میلیمتر,,مک‌بوک,,Retina displayLED‑backlit display with IPS,3072‑by‑1920 native resolution at 226 pixels ,INTEL,Core i9,2.3 گیگا هرتز,4.8 گیگاهرتز,,16 گیگابایت,DDR4,1 ترابایت,SSD,AMD,AMD Radeon Pro 5500M with 4GB of GDDR6Intel UHD Graphics 630,4 گیگابایت,87060
+apple,"
+لپ تاپ اپل مک بوک ایر 2020 مدل MVH22
+","
+MacBook Air 2020 MVH22 13 inch with Retina Display Laptop
+",17441000,17566000,212 * 16 * 304 میلیمتر,1.29,مک‌بوک,13.3,LED-backlit display with IPS technology,1600 * 2560,INTEL,Core i5,1.1 گیگاهرتز,3.5 گیگاهرتز,,8 گیگابایت,,512 گیگابایت,SSD,Intel,Intel Iris Plus Graphics,,109472
+apple,"
+لپ تاپ 13 اینچی اپل مدل MacBook Pro MWP52 2020 Core i5 10th همراه با تاچ بار
+","
+MacBook Pro MWP52 2020 Core i5 10th 13 inch with Touch Bar and Retina Display Laptop
+",69300000,70300000,15 * 212 * 304 میلیمتر,1.4,مک‌بوک,13.3,LED-backlit display with IPS technology,1600 * 2560,INTEL,Core i5,2.0 گیگا هرتز,3.8 گیگاهرتز,,16 گیگابایت,DDR4,1 ترابایت,SSD,Intel,Intel Iris Plus,,109616
+apple,"
+لپ تاپ اپل مک بوک پرو 2019 مدل MV902 دارای تاچ بار و صفحه نمایش رتینا
+","
+MacBook Pro 2019  MV902 Core i7 15.4 inch with Touch Bar and Retina Display Laptop
+",29889000,29999000,15 * 240 * 349 میلیمتر,1.83,مک‌بوک,15.4,IPS LCD,1800 * 2880,INTEL,Core i7,2.6 گیگا هرتز,4.6 گیگاهرتز,,16 گیگابایت,DDR4,256 گیگابایت,SSD,AMD,Radeon Pro 555X with 4GB of GDDR5Intel UHD Graphics 630,4 گیگابایت,72076
+apple,"
+لپ تاپ اپل مک بوک پرو 2019 مدل MV972 دارای تاچ بار و صفحه نمایش رتینا
+","
+MacBook Pro 2019  MV972 Core i5 13 inch with Touch Bar and Retina Display Laptop
+",19700000,19900000,15 * 213 * 305 میلیمتر,1.37,مک‌بوک,13.3,IPS LCD,1600 * 2560,INTEL,Core i5,2.4 گیگا هرتز,4.1 گیگاهرتز,,8 گیگابایت,2133 مگا هرتز,512 گیگابایت,SSD,AMD,Intel Iris Plus Graphics 655,,72075
+apple,"
+لپ تاپ 13 اینچی اپل مدل MacBook Pro MXK32 2020 همراه با تاچ بار
+","
+MacBook Pro MXK32 2020 Core i5 13 inch with Touch Bar and Retina Display Laptop
+",14900000,15000000,15 * 212 * 304 میلیمتر,1.4,مک‌بوک,13.3,LED-backlit display with IPS technology,1600 * 2560,INTEL,Core i5,1.4 گیگاهرتز,3.9 گیگاهرتز,,8 گیگابایت,2133 مگا هرتز,256 گیگابایت,SSD,Intel,Intel Iris Plus Graphics 645,,109610
+apple,"
+لپ تاپ 13 اینچی اپل مدل MacBook Pro MXK52 2020 همراه با تاچ بار
+","
+MacBook Pro MXK52 2020 Core i5 13 inch with Touch Bar and Retina Display Laptop
+",39639000,39989000,15 * 212 * 304 میلیمتر,1.4,مک‌بوک,13.3,LED-backlit display with IPS technology,1600 * 2560,INTEL,Core i5,1.4 گیگاهرتز,3.9 گیگاهرتز,,8 گیگابایت,2133 مگا هرتز,512 گیگابایت,SSD,Intel,Intel Iris Plus Graphics 645,,109612
+apple,"
+لپ تاپ اپل مک بوک ایر 2020 مدل MWTJ2 با پردازنده i3
+","
+MacBook Air 2020 MWTJ2 13 inch with Retina Display Laptop
+",16100000,16300000,212 * 16 * 304 میلیمتر,1.29,مک‌بوک,13.3,LED-backlit display with IPS technology,1600 * 2560,INTEL,Core i3,1.1 گیگاهرتز,3.2 گیگاهرتز,,8 گیگابایت,,256 گیگابایت,SSD,Intel,Intel Iris Plus Graphics,,109475
+apple,"
+لپ تاپ اپل مک بوک پرو ام اف 841
+","
+MacBook Pro MF841 - 13.3 Inch with Retina Display
+",44789000,44899000,18 * 219 * 313 میلیمتر,1.57,,13.3,TFT LED-backlit LCD,1600 * 2560,INTEL,Core i5,5th Generation-Broadwell,2.9 گیگا هرتز,,8 گیگابایت,DDR3,512 گیگابایت,SSD,Intel,HD Graphics 6100 Iris Pro,,2507
+apple,"
+لپ تاپ اپل مک بوک پرو مدل MR9Q2 دارای تاچ بار و صفحه نمایش رتینا
+","
+MacBook Pro 2018 MR9Q2 13 inch with Touch Bar and Retina Display Laptop
+",70900000,71000000,15 * 213 * 305 میلیمتر,1.37,مک‌بوک,13.3,IPS LCD,1600 * 2560,INTEL,Core i5,2.3 گیگا هرتز,3.8 گیگاهرتز,,8 گیگابایت,DDR3,256 گیگابایت,SSD,Intel,Iris Plus Graphics 655,,66959
+apple,"
+لپ تاپ اپل مک بوک پرو مدل MR9U2 دارای تاچ بار و صفحه نمایش رتینا
+","
+MacBook Pro 2018 MR9U2 13 inch with Touch Bar and Retina Display Laptop
+",17300000,17500000,15 * 213 * 305 میلیمتر,1.37,مک‌بوک,13.3,IPS LCD,1600 * 2560,INTEL,Core i5,2.3 گیگا هرتز,3.8 گیگاهرتز,,8 گیگابایت,DDR3,256 گیگابایت,SSD,Intel,Iris Plus Graphics 655,,66960
+apple,"
+لپ تاپ اپل مک بوک ایر مدل MRE92
+","
+MacBook Air 2018 MRE92 13.3 inch with Retina Display Laptop
+",17950000,41000000,305 * 15 * 305 میلیمتر,1.25,مک‌بوک,13.3,IPS,1600 * 2560,INTEL,Core i5,1.6 گیگاهرتز,3.6 گیگاهرتز,,8 گیگابایت,DDR3,256 گیگابایت,SSD,Intel,UHD Graphics 617,,68248
+apple,"
+لپ تاپ اپل مک بوک پرو مدل MPTR2 دارای تاچ بار و صفحه نمایش رتینا
+","
+MacBook Pro 2017 MPTR2 15.4 inch with Touch Bar and Retina Display Laptop
+",27550000,27750000,15 * 241 * 351 میلیمتر,1.82,مک‌بوک,15.4,IPS LCD,1800 * 2880,INTEL,Core i7,2.8 گیگا هرتز,3.8 گیگاهرتز,,16 گیگابایت,DDR3,256 گیگابایت,SSD,AMD Radeon ,Pro 555,2 گیگا بایت,51804
+apple,"
+لپ تاپ اپل مک بوک پرو مدل MPTV2 دارای تاچ بار و صفحه نمایش رتینا
+","
+MacBook Pro 2017 MPTV2 15.4 inch with Touch Bar and Retina Display Laptop
+",16055000,16155000,15 * 241 * 351 میلیمتر,1.82,مک‌بوک,15.4,IPS LCD,1800 * 2880,INTEL,Core i7,2.9 گیگا هرتز,3.9 گیگاهرتز,,16 گیگابایت,DDR3,512 گیگابایت,SSD,AMD Radeon ,Pro 560,4 گیگابایت,51805
+apple,"
+لپ تاپ اپل مک بوک پرو مدل MPTW2 دارای تاچ بار و صفحه نمایش رتینا
+","
+MacBook Pro 2017 MPTW2 15.4 inch with Touch Bar and Retina Display Laptop
+",20150000,20250000,15 * 241 * 351 میلیمتر,1.83,مک‌بوک,15.4,IPS LCD,1800 * 2880,INTEL,Core i7,3.1 گیگاهرتز,4.1 گیگاهرتز,,16 گیگابایت,DDR3,1 ترابایت,SSD,AMD Radeon ,Pro 560,4 گیگابایت,62892
+apple,"
+لپ تاپ اپل مک بوک پرو ام جی وای 32
+","
+MacBook Pro MJY32 12 Inch with Retina Display
+",31564000,31699000,13.1 * 196.5 * 285 میلیمتر,,,,IPS LCD,1440 * 2304,INTEL,Core-M,5th Generation-Broadwell,1.1 گیگاهرتز,,8 گیگابایت,DDR3,256 گیگابایت,SSD,Intel,HD Graphics 5300,,2840
+apple,"
+لپ تاپ اپل مک بوک پرو مدل MPXR2 دارای صفحه نمایش رتینا
+","
+MacBook Pro 2017 MPXR2 13 inch with Retina Display Laptop
+",10900000,11000000,15 * 213 * 305 میلیمتر,1.37,مک‌بوک,13.3,IPS LCD,1600 * 2560,INTEL,Core i5,2.3 گیگا هرتز,3.6 گیگاهرتز,,8 گیگابایت,DDR3,128 گیگابایت,SSD,Intel,Iris Plus Graphics 640,,51789
+apple,"
+لپ تاپ اپل مک بوک پرو مدل MPXU2 دارای صفحه نمایش رتینا
+","
+MacBook Pro 2017 MPXU2 13 inch with Retina Display Laptop
+",29150000,29350000,15 * 213 * 305 میلیمتر,1.37,مک‌بوک,13.3,IPS LCD,1600 * 2560,INTEL,Core i5,2.3 گیگا هرتز,3.6 گیگاهرتز,,8 گیگابایت,DDR3,256 گیگابایت,SSD,Intel,Iris Plus Graphics 640,,51798
+apple,"
+لپ تاپ اپل مک بوک ایر 2020 مدل MVH52
+","
+MacBook Air 2020 MVH52 13 inch with Retina Display Laptop
+",31720000,31900000,212 * 16 * 304 میلیمتر,1.29,مک‌بوک,13.3,LED-backlit display with IPS technology,1600 * 2560,INTEL,Core i5,1.1 گیگاهرتز,3.5 گیگاهرتز,,8 گیگابایت,,512 گیگابایت,SSD,Intel,Intel Iris Plus Graphics,,109473
+apple,"
+لپ تاپ اپل مک بوک پرو 2019 مدل MV932 دارای تاچ بار و صفحه نمایش رتینا
+","
+MacBook Pro 2019  MV932 Core i9 15.4 inch with Touch Bar and Retina Display Laptop
+",14650000,14850000,15 * 240 * 349 میلیمتر,1.83,مک‌بوک,15.4,IPS LCD,1800 * 2880,INTEL,Core i9,2.3 گیگا هرتز,4.8 گیگاهرتز,,16 گیگابایت,DDR4,512 گیگابایت,SSD,AMD,Radeon Pro 560X GDDR5 ,4 گیگابایت,72426
+apple,"
+لپ تاپ اپل مک بوک ایر 2019 مدل MVFM2
+","
+MacBook Air 2019 MVFM2 13.3 inch with Retina Display Laptop
+",104880000,105880000,305 * 15 * 305 میلیمتر,1.25,مک‌بوک,13.3,IPS,1600 * 2560,INTEL,Core i5,1.6 گیگاهرتز,3.6 گیگاهرتز,,8 گیگابایت,DDR3,128 گیگابایت,SSD,Intel,UHD Graphics 617,,73192
+apple,"
+لپ تاپ اپل مک بوک ایر 2019 مدل MVFK2
+","
+MacBook Air 2019 MVFK2 13.3 inch with Retina Display Laptop
+",28575000,14850000,305 * 15 * 305 میلیمتر,1.25,مک‌بوک,13.3,IPS,1600 * 2560,INTEL,Core i5,1.6 گیگاهرتز,3.6 گیگاهرتز,,8 گیگابایت,DDR3,128 گیگابایت,SSD,Intel,UHD Graphics 617,,73193
+apple,"
+لپ تاپ اپل مک بوک ایر 2019 مدل MVFL2
+","
+MacBook Air 2019 MVFL2 13.3 inch with Retina Display Laptop
+",22850000,22900000,305 * 15 * 305 میلیمتر,1.25,مک‌بوک,13.3,IPS,1600 * 2560,INTEL,Core i5,1.6 گیگاهرتز,3.6 گیگاهرتز,,8 گیگابایت,2133 مگا هرتز,256 گیگابایت,SSD,Intel,UHD Graphics 617,,74397
+apple,"
+لپ تاپ اپل مک بوک پرو 2019 مدل MV922 دارای تاچ بار و صفحه نمایش رتینا
+","
+MacBook Pro 2019  MV922 Core i7 15.4 inch with Touch Bar and Retina Display Laptop
+",31199000,32199000,15 * 240 * 349 میلیمتر,1.83,مک‌بوک,15.4,IPS LCD,1800 * 2880,INTEL,Core i7,2.6 گیگا هرتز,4.6 گیگاهرتز,,16 گیگابایت,DDR4,256 گیگابایت,SSD,AMD,Radeon Pro 555X with 4GB of GDDR5Intel UHD Graphics 630,4 گیگابایت,76231
+apple,"
+لپ تاپ اپل مک بوک ایر 2020 مدل MVH42
+","
+MacBook Air 2020 MVH42 13 inch with Retina Display Laptop
+",30330000,30530000,212 * 16 * 304 میلیمتر,1.29,مک‌بوک,13.3,LED-backlit display with IPS technology,1600 * 2560,INTEL,Core i5,1.1 گیگاهرتز,3.5 گیگاهرتز,,8 گیگابایت,,512 گیگابایت,SSD,Intel,Intel Iris Plus Graphics,,109474
+apple,"
+لپ تاپ اپل مک بوک ایر 2020 مدل MWTK2 با پردازنده i3
+","
+MacBook Air 2020 MWTK2 13 inch with Retina Display Laptop
+",23550000,23750000,212 * 16 * 304 میلیمتر,1.29,مک‌بوک,13.3,LED-backlit display with IPS technology,1600 * 2560,INTEL,Core i3,1.1 گیگاهرتز,3.2 گیگاهرتز,,8 گیگابایت,,256 گیگابایت,SSD,Intel,Intel Iris Plus Graphics,,109477
+apple,"
+لب تاپ اپل مک بوک پرو مدل MPXV2 دارای تاچ بار و صفحه نمایش رتینا
+","
+MacBook Pro 2017 MPXV2 13 inch with Touch Bar and Retina Display Laptop
+",26550000,29000000,15 * 213 * 305 میلیمتر,1.37,مک‌بوک,13.3,IPS LCD,1600 * 2560,INTEL,Core i5,3.1 گیگاهرتز,3.5 گیگاهرتز,,8 گیگابایت,DDR3,256 گیگابایت,SSD,Intel,Iris Plus Graphics 650,,51664
+apple,"
+لب تاپ اپل مک بوک ایر مدل ام جی وی ای 2
+","
+MacBookAir-MJVE2
+",28530000,28630000,17 * 277 * 325 میلی‌متر,1.35,,,TFT LED-Backlit LCD,900 * 1440,INTEL,Core i5,5th Generation-Broadwell,1.6 گیگاهرتز,,4 گیگابایت,DDR3,128 گیگابایت,SSD,Intel,HD Graphics 6000,,1554
+apple,"
+لب تاپ اپل مک بوک ایر مدل ام دی 761
+","
+MacBookAir-MD761B
+",71549000,71699000,17 * 277 * 325 میلی‌متر,1.35,,,High-Resolution Widescreen LED-Backlit Glossy Display,900 * 1440,INTEL,Core i5,i5-4260U,1.4 گیگاهرتز,,8 گیگابایت,DDR3,256 گیگابایت,SSD,Intel,HD Graphics 5000,,1186
+apple,"
+لپ تاپ 13 اینچی اپل مدل MacBook Air CTO 2017 
+","
+MacBook Air CTO Z0UU i7 8GB 128GB 13.3 inch Laptop
+",11900000,12000000,17 * 227 * 325 میلیمتر,1.35,مک‌بوک,13.3,TFT LED-backlit LCD,900 * 1440,INTEL,Core i7,2.2 گیگا هرتز,3.2 گیگاهرتز,,8 گیگابایت,DDR3,128 گیگابایت,SSD,Intel,HD Graphics 6000,,70580
+apple,"
+لپ تاپ اپل مک بوک ایر مدل MRE82
+","
+MacBook Air 2018 MRE82 13.3 inch with Retina Display Laptop
+",14450000,18399000,305 * 15 * 305 میلیمتر,1.25,مک‌بوک,13.3,IPS,1600 * 2560,INTEL,Core i5,1.6 گیگاهرتز,3.6 گیگاهرتز,,8 گیگابایت,DDR3,128 گیگابایت,SSD,Intel,UHD Graphics 617,,68245
+apple,"
+لپ تاپ اپل مک بوک ایر مدل MREE2
+","
+MacBook Air 2018 MREE2 13.3 inch with Retina Display Laptop
+",15930000,16030000,305 * 15 * 305 میلیمتر,1.25,مک‌بوک,13.3,IPS,1600 * 2560,INTEL,Core i5,1.6 گیگاهرتز,3.6 گیگاهرتز,,8 گیگابایت,DDR3,128 گیگابایت,SSD,Intel,UHD Graphics 617,,68246
+apple,"
+لپ تاپ 13 اینچی اپل مدل MacBook Pro MWP42 2020 Core i5 10th همراه با تاچ بار
+","
+MacBook Pro MWP42 2020 Core i5 10th 13 inch with Touch Bar and Retina Display Laptop
+",21784000,21899000,15 * 212 * 304 میلیمتر,1.4,مک‌بوک,13.3,LED-backlit display with IPS technology,1600 * 2560,INTEL,Core i5,2.0 گیگا هرتز,3.8 گیگاهرتز,,16 گیگابایت,DDR4,512 گیگابایت,SSD,Intel,Intel Iris Plus,,109614
+apple,"
+لپ تاپ اپل مک بوک پرو 2019 مدل MUHQ2 دارای تاچ بار و صفحه نمایش رتینا
+","
+MacBook Pro 2019 MUHQ2 Core i5 13 inch with Touch Bar and Retina Display Laptop
+",17670000,72500000,15 * 213 * 305 میلیمتر,1.37,مک‌بوک,13.3,IPS LCD,1600 * 2560,INTEL,Core i5,1.4 گیگاهرتز,3.9 گیگاهرتز,,8 گیگابایت,2133 مگا هرتز,128 گیگابایت,SSD,AMD,Intel Iris Plus Graphics 645,,74292
+apple,"
+لپ تاپ اپل مک بوک ایر مدل MREA2
+","
+MacBook Air 2018 MREA2 13.3 inch with Retina Display Laptop
+",32399000,32499000,305 * 15 * 305 میلیمتر,1.25,مک‌بوک,13.3,IPS,1600 * 2560,INTEL,Core i5,1.6 گیگاهرتز,3.6 گیگاهرتز,,8 گیگابایت,DDR3,128 گیگابایت,SSD,Intel,UHD Graphics 617,,68247
+apple,"
+لپ تاپ اپل مک بوک مدل MNYM2
+","
+MacBook MNYM2 2017 12 inch Laptop
+",20184000,20299000,1.31~0.35 * 196.5 * 280.5 ميليمتر,,مک‌بوک,,IPS LCD,1440 * 2304,INTEL,Core-M3,1.2 گیگاهرتز,3.0 گیگاهرتز,,8 گیگابایت,DDR3,256 گیگابایت,SSD,Intel,Intel HD Graphics 615,,62977
+apple,"
+لپ تاپ اپل مک بوک پرو مدل MPXX2 دارای تاچ بار و صفحه نمایش رتینا
+","
+MacBook Pro 2017 MPXX2 13 inch with Touch Bar and Retina Display Laptop
+",18999000,19199000,15 * 213 * 305 میلیمتر,1.3,مک‌بوک,13.3,IPS LCD,1600 * 2560,INTEL,Core i5,3.1 گیگاهرتز,3.5 گیگاهرتز,,8 گیگابایت,DDR3,256 گیگابایت,SSD,Intel,Iris Plus Graphics 650,,51800
+apple,"
+لپ تاپ اپل مک بوک پرو مدل MPXW2 دارای تاچ بار و صفحه نمایش رتینا
+","
+MacBook Pro 2017 MPXW2 13 inch with Touch Bar and Retina Display Laptop
+",107950000,108350000,15 * 213 * 305 میلیمتر,1.37,مک‌بوک,13.3,IPS LCD,1600 * 2560,INTEL,Core i5,3.1 گیگاهرتز,3.5 گیگاهرتز,,8 گیگابایت,DDR3,512 گیگابایت,SSD,Intel,Iris Plus Graphics 650,,51802
+apple,"
+لپ تاپ اپل مک بوک پرو مدل MPTU2 دارای تاچ بار و صفحه نمایش رتینا
+","
+MacBook Pro 2017 MPTU2 15.4 inch with Touch Bar and Retina Display Laptop
+",15200000,15300000,15 * 241 * 351 میلیمتر,1.82,مک‌بوک,15.4,IPS LCD,1800 * 2880,INTEL,Core i7,2.8 گیگا هرتز,3.8 گیگاهرتز,,16 گیگابایت,DDR3,256 گیگابایت,SSD,AMD Radeon ,Pro 555,2 گیگا بایت,51803
+apple,"
+لب تاپ اپل مک بوک پرو مدل ام جی ایکس 92 با صفحه نمایش رتینا
+","
+MacBook Pro Retina MGX92 Core i5 8GB 512GB SSD Intel Laptop
+",36990000,37190000,18 × 219 × 313 میلی‌متر,1.57,آلترابوک,13.3,Retina LED-Backlit Display with IPS Technology,1600 * 2560,INTEL,Core i5,2.8 گیگا هرتز,3 مگابایت,,8 گیگابایت,DDR3,512 گیگابایت,SSD,Intel,Iris Pro Graphics,,1197
+apple,"
+لب تاپ اپل مک بوک پرو مدل ام سی 976
+","
+MacBookPro-MC976
+",37500000,46300000,358.9 * 247.1 * 18 میلیمتر,2.02,,15.4,LED-Backlit Retina,1800 * 2880,INTEL,Core i7,2.6 گیگا هرتز,6 مگابایت,,8 گیگابایت,DDR3L,512 گیگابایت,SSD,Nvidia Gforce,GT 650M GDDR5,1 گیگا بایت,1412
+apple,"
+لب تاپ اپل مک بوک ایر مدل ام جی وی ام 2
+","
+MacBookAir-MJVM2
+",95000000,95900000,299 * 249 * 17.78 میلی‌متر,1.08,,,TFT LED-Backlit LCD,768 * 1366,INTEL,Core i5,5th Generation-Broadwell,1.6 گیگاهرتز,,4 گیگابایت,DDR3,128 گیگابایت,SSD,Intel,HD Graphics 6000,,1553
+apple,"
+لب تاپ اپل مک بوک ایر مدل ام جی وی جی 2
+","
+MacBookAir-MJVG2
+",54380000,55380000,17 * 277 * 325 میلی‌متر,1.35,,,TFT LED-Backlit LCD,900 * 1440,INTEL,Core i5,5th Generation-Broadwell,1.6 گیگاهرتز,,4 گیگابایت,DDR3,256 گیگابایت,SSD,Intel,HD Graphics 6000,,1556
+apple,"
+لپ تاپ اپل مک بوک ام کی 4 ام 2
+","
+MacBook MK4M2 12 Inch with Retina Display Laptop
+",73000000,74000000,13.1 * 196.5 * 285 میلیمتر,,,,IPS LCD,1440*1050 ,INTEL,Core-M,5th Generation-Broadwell,1.2 گیگاهرتز,,8 گیگابایت,DDR3,256 گیگابایت,SSD,Intel,HD Graphics 5300,,4569
+apple,"
+لپ تاپ اپل مک بوک ایر ام ام جی اف 2
+","
+MacBook Air 2015 MMGF2 - 13 Inch Laptop
+",25550000,29599000,17 * 227 * 325 میلیمتر,1.35,مک‌بوک,,TFT LED-backlit LCD,900 * 1440,INTEL,Core i5,5th Generation-Broadwell,1.6 گیگاهرتز,3 مگابایت,8 گیگابایت,DDR3,128 گیگابایت,SSD,Intel,HD Graphics 6000,,42240
+apple,"
+لپ تاپ اپل مک بوک پرو مدل MLL42 با صفحه نمایش رتینا
+","
+MacBook Pro 2016 MLL42 13 inch with Retina Display Laptop
+",88300000,88400000,305 * 15 * 213 میلیمتر,1.36,مک‌بوک,13.3,IPS LCD,1600 * 2560,INTEL,Core i5,2.0 گیگا هرتز,3.1 گیگاهرتز,,8 گیگابایت,DDR3,256 گیگابایت,SSD,Intel,Iris Graphics 540,,48417
+apple,"
+لپ تاپ 12 اینچی اپل مک بوک مدل MMGL2 2016 با صفحه نمایش رتینا
+","
+MacBook MMGL2 2016 12 Inch with Retina Display Laptop
+",16000000,16100000,3.5 ~ 13.1 * 196.5 * 285 میلیمتر,,مک‌بوک,,IPS LCD,1440 * 2304,INTEL,Core-M3,6th Generation - Skylake,1.1 گیگاهرتز,4 مگابایت,8 گیگابایت,DDR3,256 گیگابایت,SSD,Intel,HD Graphics 515,,45256
+apple,"
+لپ تاپ اپل مک بوک ایر 2020 مدل MWTL2 با پردازنده i3
+","
+MacBook Air 2020 MWTL2 13 inch with Retina Display Laptop
+",16749000,16999000,212 * 16 * 304 میلیمتر,1.29,مک‌بوک,13.3,LED-backlit display with IPS technology,1600 * 2560,INTEL,Core i3,1.1 گیگاهرتز,3.2 گیگاهرتز,,8 گیگابایت,,256 گیگابایت,SSD,Intel,Intel Iris Plus Graphics,,109476
+apple,"
+لپ تاپ 13 اینچی اپل مدل MacBook Pro MXK62 2020 همراه با تاچ بار
+","
+MacBook Pro MXK62 2020 Core i5 13 inch with Touch Bar and Retina Display Laptop
+",57888000,58888000,15 * 212 * 304 میلیمتر,1.4,مک‌بوک,13.3,LED-backlit display with IPS technology,1600 * 2560,INTEL,Core i5,1.4 گیگاهرتز,3.9 گیگاهرتز,,8 گیگابایت,2133 مگا هرتز,256 گیگابایت,SSD,Intel,Intel Iris Plus Graphics 645,,109611
+apple,"
+لپ تاپ اپل مک بوک پرو 2019 مدل MUHR2 دارای تاچ بار و صفحه نمایش رتینا
+","
+MacBook Pro MUHR2 2019 Core i5 13 inch with Touch Bar and Retina Display Laptop
+",70130000,71130000,15 * 213 * 305 میلیمتر,1.37,مک‌بوک,13.3,IPS LCD,1600 * 2560,INTEL,Core i5,1.4 گیگاهرتز,3.9 گیگاهرتز,,8 گیگابایت,2133 مگا هرتز,256 گیگابایت,SSD,AMD,Intel Iris Plus Graphics 645,,74294
+apple,"
+لپ تاپ اپل مک بوک ایر 2019 مدل MVFN2
+","
+MacBook Air 2019 MVFN2 13.3 inch with Retina Display Laptop
+",30330000,30530000,305 * 15 * 305 میلیمتر,1.25,مک‌بوک,13.3,IPS,1600 * 2560,INTEL,Core i5,1.6 گیگاهرتز,3.6 گیگاهرتز,,8 گیگابایت,2133 مگا هرتز,256 گیگابایت,SSD,Intel,UHD Graphics 617,,74396
+apple,"
+لپ تاپ اپل مک بوک پرو 2019 مدل MV992 دارای تاچ بار و صفحه نمایش رتینا
+","
+MacBook Pro 2019  MV992 Core i5 2.4GHz 13 inch with Touch Bar and Retina Display Laptop
+",25190000,35729000,15 * 213 * 305 میلیمتر,1.37,مک‌بوک,13.3,IPS LCD,1600 * 2560,INTEL,Core i5,2.4 گیگا هرتز,4.1 گیگاهرتز,,8 گیگابایت,2133 مگا هرتز,256 گیگابایت,SSD,AMD,Intel Iris Plus Graphics 655,,75065
+apple,"
+لپ تاپ اپل مک بوک ایر 2019 مدل MVH62 با رم 16 گیگابایت و حافظه 512 گیگابایت
+","
+MacBook Air Customize 2019 MVH62 13.3 inch 512GB Retina Display Laptop
+",37174000,37299000,305 * 15 * 305 میلیمتر,1.25,مک‌بوک,13.3,IPS,1600 * 2560,INTEL,Core i5,1.6 گیگاهرتز,3.6 گیگاهرتز,,16 گیگابایت,2133 مگا هرتز,512 گیگابایت,SSD,Intel,UHD Graphics 617,,75473
+apple,"
+لپ تاپ اپل مک بوک پرو 2019 مدل MV952 دارای تاچ بار و حافظه یک ترابایت
+","
+MacBook Pro 2019  MV952 Core i9 15.4 inch with Touch Bar and Retina Display Laptop
+",16950000,27533000,15 * 240 * 349 میلیمتر,1.83,مک‌بوک,15.4,IPS LCD,1800 * 2880,INTEL,Core i9,2.4 گیگا هرتز,16 مگابایت,,32 گیگابایت,DDR4,1 ترابایت,SSD,AMD,Radeon Pro Vega 20 HBM2,4 گیگابایت,76249
+apple,"
+لپ تاپ 16 اینچ اپل مک بوک پرو 2019 مدل MVVL2 دارای تاچ بار و صفحه نمایش رتینا
+","
+MacBook Pro 16-inch MVVL2 Core i7 with Touch Bar and Retina Display Laptop
+",27500000,86180000,16 * 245 * 357 میلیمتر,,مک‌بوک,,Retina displayLED‑backlit display with IPS,3072‑by‑1920 native resolution at 226 pixels ,INTEL,Core i7,2.6 گیگا هرتز,4.5 گیگاهرتز,,16 گیگابایت,DDR4,512 گیگابایت,SSD,AMD,AMD Radeon Pro 5300M with 4GB of GDDR6Intel UHD Graphics 630,4 گیگابایت,87058
+apple,"
+لپ تاپ اپل مک بوک پرو 2019 مدل MV9A2 دارای تاچ بار و صفحه نمایش رتینا
+","
+MacBook Pro 2019  MV9A2 Core i5 13 inch with Touch Bar and Retina Display Laptop
+",20700000,20900000,15 * 213 * 305 میلیمتر,1.37,مک‌بوک,13.3,IPS LCD,1600 * 2560,INTEL,Core i5,2.4 گیگا هرتز,4.1 گیگاهرتز,,8 گیگابایت,2133 مگا هرتز,512 گیگابایت,SSD,AMD,Intel Iris Plus Graphics 655,,74105
+apple,"
+لپ تاپ 13 اینچی اپل مدل MacBook Pro MXK72 2020 همراه با تاچ بار
+","
+MacBook Pro MXK72 2020 Core i5 13 inch with Touch Bar and Retina Display Laptop
+",16934000,17099000,15 * 212 * 304 میلیمتر,1.4,مک‌بوک,13.3,LED-backlit display with IPS technology,1600 * 2560,INTEL,Core i5,1.4 گیگاهرتز,3.9 گیگاهرتز,,8 گیگابایت,,512 گیگابایت,SSD,Intel,Intel Iris Plus Graphics 645,,109613
+apple,"
+لپ تاپ 13 اینچی اپل مدل MacBook Pro MWP82 2020 Core i5 10th همراه با تاچ بار
+","
+MacBook Pro MWP82 2020 Core i5 10th 13 inch with Touch Bar and Retina Display Laptop
+",98500000,99500000,15 * 212 * 304 میلیمتر,1.4,مک‌بوک,13.3,LED-backlit display with IPS technology,1600 * 2560,INTEL,Core i5,2.0 گیگا هرتز,3.8 گیگاهرتز,,16 گیگابایت,DDR4,1 ترابایت,SSD,Intel,Intel Iris Plus,,109617
+apple,"
+لپ تاپ 16 اینچ اپل مک بوک پرو 2019 مدل MVVK2 دارای تاچ بار و صفحه نمایش رتینا
+","
+MacBook Pro 16-inch MVVK2 Core i9 with Touch Bar and Retina Display Open Box Laptop
+",72500000,73500000,16 * 245 * 357 میلیمتر,,مک‌بوک,,Retina displayLED‑backlit display with IPS,3072‑by‑1920 native resolution at 226 pixels ,INTEL,Core i9,2.3 گیگا هرتز,4.8 گیگاهرتز,,16 گیگابایت,DDR4,1 ترابایت,SSD,AMD,AMD Radeon Pro 5500M with 4GB of GDDR6Intel UHD Graphics 630,4 گیگابایت,110506
+apple,"
+MacBook Air اپل 13 اینچ مدل MGN73 پردازنده Apple M1 chip رم 8GB حافظه 512GB SSD
+","
+Apple MacBook Air MGN73 2020 - 13 inch Laptop
+",36288000,37288000,304.1x212.4x16.1 میلی‌متر,1.29,مک‌بوک,13.3,IPS LED-backlit LCD,1600 * 2560,Apple,M1,Apple M1 Chip,,,8 گیگابایت,,512 گیگابایت,SSD,Apple,8core Apple-designed integrated GPU,,114321
+apple,"
+MacBook Pro اپل 13 اینچ مدل MYD82 پردازنده M1 رم 8GB حافظه 256GB SSD
+","
+Apple MacBook Pro MYD82 2020 - 13 inch Laptop 
+",42600000,43600000,304.1x212.4x15.6 میلی‌متر,1.4,مک‌بوک,13.3,IPS LED-backlit LCD,1600 * 2560,Apple,M1,Apple M1 Chip,,,8 گیگابایت,,256 گیگابایت,SSD,Apple,8core Apple-designed integrated GPU,,114322
+apple,"
+MacBook Pro اپل 13 اینچ مدل MYD92 پردازنده M1 رم 8GB حافظه 512GB SSD
+","
+Apple MacBook Pro MYD92 2020 - 13 inch Laptop 
+",103500000,104000000,30.41*21.24*1.56 میلی‌متر,1.4,مک‌بوک,13.3,IPS technology,1600 * 2560,Apple,M1,Apple M1 Chip,,,8 گیگابایت,,512 گیگابایت,SSD,Apple,,,114329
+apple,"
+لپ تاپ 13 اینچی اپل مدل MacBook Air CTO 2017 
+","
+MacBook Air 2017 CTO i7 8GB 256GB 13.3 inch Laptop
+",44100000,44600000,17 * 227 * 325 میلیمتر,1.35,مک‌بوک,13.3,TFT LED-backlit LCD,900 * 1440,INTEL,Core i7,2.2 گیگا هرتز,3.2 گیگاهرتز,,8 گیگابایت,DDR3,256 گیگابایت,SSD,Intel,HD Graphics 6000,,109478
+apple,"
+لپ تاپ 16 اینچ اپل مک بوک پرو 2019 مدل MVVN2 دارای تاچ بار و صفحه نمایش رتینا
+","
+MacBook Pro 16-inch MVVN2 Core i9 with Touch Bar and Retina Display Laptop
+",28530000,28630000,16 * 245 * 357 میلیمتر,,مک‌بوک,,Retina displayLED‑backlit display with IPS,3072‑by‑1920 native resolution at 226 pixels ,INTEL,Core i9,2.4 گیگا هرتز,5.0 گیگاهرتز,,32 گیگابایت,DDR4,2 ترابایت,SSD,AMD,AMD Radeon Pro 5500M with 8GB of GDDR6Intel UHD Graphics 630,8 گیگا بایت,107735
+apple,"
+MacBook Pro اپل 13 اینچ مدل 5YD82 پردازنده M1 رم 8GB حافظه 256GB SSD
+","
+Apple MacBook Pro 5YD82 2020 Refurbished 13 inch Laptop 
+",69300000,70300000,304.1x212.4x15.6 میلی‌متر,1.4,مک‌بوک,13.3,IPS LED-backlit LCD,1600 * 2560,Apple,M1,Apple M1 Chip,,,8 گیگابایت,,256 گیگابایت,SSD,Apple,8core Apple-designed integrated GPU,,125697
+apple,"
+لپ تاپ اپل 16 اینچی مدل Mac Book Pro 16inch CTO 2021 پردازنده M1 Max رم 64GB حافظه 1TB SSD
+","
+Apple MacBook Pro 16‑inch CTO 2021 M1 Max 64GB 1TB SSD Laptop
+",30150000,46300000,355x248x168 میلی‌متر,2.2,مک‌بوک,16.2,Liquid Retina XDR display,3456*2234,Apple,M1 Max,M1 Max with 10-core CPU,,,64 گیگابایت,unified memory,1 ترابایت,SSD,Apple,32core GPU16core Neural Engine400GB/s memory bandwidth,,126770
+apple,"
+لپ تاپ اپل 16 اینچی مدل Mac Book Pro 16inch CTO 2021 پردازنده M1 Max رم 64GB حافظه 2TB SSD
+","
+Apple MacBook Pro 16‑inch CTO 2021 M1 Max 64GB 2TB SSD Laptop
+",44750000,140000000,355x248x168 میلی‌متر,2.2,مک‌بوک,16.2,Liquid Retina XDR display,3456*2234,Apple,M1 Max,M1 Max with 10-core CPU,,,64 گیگابایت,unified memory,2 ترابایت,SSD,Apple,32core GPU16core Neural Engine400GB/s memory bandwidth,,126771
+apple,"
+لپ تاپ اپل 16 اینچی مدل Mac Book Pro 16inch CTO 2021 پردازنده M1 Max رم 32GB حافظه 1TB SSD
+","
+Apple MacBook Pro 16‑inch CTO 2021 M1 Max 32GB 1TB SSD Laptop
+",21784000,21899000,355x248x168 میلی‌متر,2.2,مک‌بوک,16.2,Liquid Retina XDR display,3456*2234,Apple,M1 Max,M1 Max with 10-core CPU,,,32 گیگابایت,unified memory,1 ترابایت,SSD,Apple,32core GPU16core Neural Engine400GB/s memory bandwidth,,127029
+apple,"
+لپ تاپ اپل 13.6 اینچی مدل Apple MacBook Air 2022 Starlight CTO پردازنده M2 رم 16GB حافظه 1TB SSD گرافیک 10Core GPU
+","
+Apple MacBook Air 2022 Starlight CTO M2 16GB 1TB SSD 10-Core GPU 13.6 inch Laptop
+",42610000,42960000,30.41x21.24x1.11 سانتی ‌متر,1.24,مک‌بوک,13.6,13.6inch (diagonal) LED-backlit display with IPS technology ,1600 * 2560,Apple,M2,8core CPU with 4 performance cores and 4 efficiency cores/10core GPU,,,16 گیگابایت,unified memory,1 ترابایت,SSD,Apple,10 هسته ای,,127197
+apple,"
+لپ تاپ اپل 13.6 اینچی مدل Apple MacBook Air 2022 Midnight CTO پردازنده M2 رم 16GB حافظه 1TB SSD گرافیک 10Core GPU
+","
+Apple MacBook Air 2022 Midnight CTO M2 16GB 1TB SSD 10-Core GPU 13.6 inch Laptop
+",45000000,46000000,30.41x21.24x1.11 سانتی ‌متر,1.24,مک‌بوک,13.6,13.6inch (diagonal) LED-backlit display with IPS technology ,1600 * 2560,Apple,M2,8core CPU with 4 performance cores and 4 efficiency cores/10core GPU,,,16 گیگابایت,unified memory,1 ترابایت,SSD,Apple,10 هسته ای,,127205
+apple,"
+لپ تاپ اپل 13.6 اینچی مدل Apple MacBook Air 2022 Space Gray CTO پردازنده M2 رم 16GB حافظه 1TB SSD گرافیک 10Core GPU
+","
+Apple MacBook Air 2022 Space Gray CTO M2 16GB 1TB SSD 10-Core GPU 13.6 inch Laptop
+",17249000,17399000,30.41x21.24x1.11 سانتی ‌متر,1.24,مک‌بوک,13.6,13.6inch (diagonal) LED-backlit display with IPS technology ,1600 * 2560,Apple,M2,8core CPU with 4 performance cores and 4 efficiency cores/10core GPU,,,16 گیگابایت,unified memory,1 ترابایت,SSD,Apple,10 هسته ای,,127268
+apple,"
+لپ تاپ اپل 13.6 اینچی مدل Apple MacBook Air 2022 Silver CTO پردازنده M2 رم 16GB حافظه 1TB SSD گرافیک 10Core GPU
+","
+Apple MacBook Air 2022 Silver CTO M2 16GB 1TB SSD 10-Core GPU 13.6 inch Laptop
+",21300000,21400000,30.41x21.24x1.11 سانتی ‌متر,1.24,مک‌بوک,13.6,13.6inch (diagonal) LED-backlit display with IPS technology ,1600 * 2560,Apple,M2,8core CPU with 4 performance cores and 4 efficiency cores/10core GPU,,,16 گیگابایت,unified memory,1 ترابایت,SSD,Apple,10 هسته ای,,127269
+apple,"
+لپ تاپ اپل 13.6 اینچی مدل Apple MacBook Air 2022 Midnight CTO پردازنده M2 رم 24GB حافظه 1TB SSD گرافیک 10Core GPU
+","
+Apple MacBook Air 2022 Midnight CTO M2 24GB 1TB SSD 10-Core GPU 13.6 inch Laptop
+",44900000,17370000,30.41x21.24x1.11 سانتی ‌متر,1.24,مک‌بوک,13.6,13.6inch (diagonal) LED-backlit display with IPS technology ,1600 * 2560,Apple,M2,8core CPU with 4 performance cores and 4 efficiency cores/10core GPU,,,24 گیگابایت,unified memory,1 ترابایت,SSD,Apple,10 هسته ای,,127287
+apple,"
+لپ تاپ اپل 13.6 اینچی مدل Apple MacBook Air 2022 Starlight CTO پردازنده M2 رم 24GB حافظه 1TB SSD گرافیک 10Core GPU
+","
+Apple MacBook Air 2022 Starlight CTO M2 24GB 1TB SSD 10-Core GPU 13.6 inch Laptop
+",56888000,57888000,30.41x21.24x1.11 سانتی ‌متر,1.24,مک‌بوک,13.6,13.6inch (diagonal) LED-backlit display with IPS technology ,1600 * 2560,Apple,M2,8core CPU with 4 performance cores and 4 efficiency cores/10core GPU,,,24 گیگابایت,unified memory,1 ترابایت,SSD,Apple,10 هسته ای,,127439
+apple,"
+لپ تاپ اپل 13.6 اینچی مدل Apple MacBook Air 2022 Space Gray CTO پردازنده M2 رم 24GB حافظه 1TB SSD گرافیک 10Core GPU
+","
+Apple MacBook Air 2022 Space Gray CTO M2 24GB 1TB SSD 10-Core GPU 13.6 inch Laptop
+",37249000,37399000,30.41x21.24x1.11 سانتی ‌متر,1.24,مک‌بوک,13.6,13.6inch (diagonal) LED-backlit display with IPS technology ,1600 * 2560,Apple,M2,8core CPU with 4 performance cores and 4 efficiency cores/10core GPU,,,24 گیگابایت,unified memory,1 ترابایت,SSD,Apple,10 هسته ای,,127440
+apple,"
+لپ تاپ اپل 13.6 اینچی مدل Apple MacBook Air 2022 Silver CTO پردازنده M2 رم 24GB حافظه 1TB SSD گرافیک 10Core GPU
+","
+Apple MacBook Air 2022 Silver CTO M2 24GB 1TB SSD 10-Core GPU 13.6 inch Laptop
+",21050000,21150000,30.41x21.24x1.11 سانتی ‌متر,1.24,مک‌بوک,13.6,13.6inch (diagonal) LED-backlit display with IPS technology ,1600 * 2560,Apple,M2,8core CPU with 4 performance cores and 4 efficiency cores/10core GPU,,,24 گیگابایت,unified memory,1 ترابایت,SSD,Apple,10 هسته ای,,127441
+apple,"
+لپ تاپ اپل 14 اینچی مدل Mac Book Pro 14inch CTO 2021 MKH53 پردازنده M1 Max رم 64GB حافظه 2TB SSD
+","
+Apple MacBook Pro 14‑inch CTO 2021 MKH53 M1 Max 64GB 2TB SSD Laptop
+",49388000,50388000,1.55x31.26 x22.12 سانتیمتر,1.6,مک‌بوک,14.2,Liquid Retina XDR display,3024*1964,Apple,M1 Max,M1 Max with 10-core CPU,,,64 گیگابایت,unified memory,2 ترابایت,SSD,Apple,32core GPU16core Neural Engine400GB/s memory bandwidth,,127789
+apple,"
+لپ تاپ اپل 13.3 اینچی مدل Apple MacBook Pro 2022 CTO MNEW3 پردازنده M2 رم 24GB حافظه 1TB SSD
+","
+Apple MacBook Pro 2022 CTO MNEW3 13.3"" M2 24GB 1TB SSD Laptop
+",18055000,78288000,1.56*30.41*21.24 سانتی ‌متر,1.4,مک‌بوک,13.3,Liquid Retina XDR,1600 * 2560,Apple,M2,"M2 chip with 8‑core CPU, 10‑core GPU, 16‑core Neural Engine",,,24 گیگابایت,unified memory,1 ترابایت,SSD,Apple,10core GPU16-core Neural Engine100GB/s memory bandwidth,,127790
+apple,"
+لپ تاپ اپل 16 اینچ مدل Mac Book Pro 16inch MK1F3 پردازنده M1 Pro رم 16GB حافظه 1TB SSD
+","
+Apple MacBook Pro 16‑inch MK1F3 M1 Pro 16GB 1TB SSD Laptop
+",72874000,72999000,355x248x168 میلی‌متر,2.2,مک‌بوک,16.2,Liquid Retina XDR display,3456*2234,Apple,M1 Pro,M1 Pro with 10-core CPU,,,16 گیگابایت,unified memory,1 ترابایت,SSD,Apple,16core GPU16core Neural Engine200GB/s memory bandwidth,,122118
+apple,"
+لپ تاپ اپل 16 اینچ مدل Mac Book Pro 16inch MK1A3 پردازنده M1 Max رم 32GB حافظه 1TB SSD
+","
+Apple MacBook Pro 16‑inch MK1A3 M1 Max 32GB 1TB SSD Laptop
+",17590000,78288000,355x248x168 میلی‌متر,2.2,مک‌بوک,16.2,Liquid Retina XDR display,3456*2234,Apple,M1 Max,M1 Max with 10-core CPU,,,32 گیگابایت,unified memory,1 ترابایت,SSD,Apple,32core GPU16core Neural Engine400GB/s memory bandwidth,,122119
+apple,"
+لپ تاپ اپل 16 اینچ مدل Mac Book Pro 16inch MK1H3 پردازنده M1 Max رم 32GB حافظه 1TB SSD
+","
+Apple MacBook Pro 16‑inch MK1H3 M1 Max 32GB 1TB SSD Laptop
+",16650000,50300000,355x248x168 میلی‌متر,2.2,مک‌بوک,16.2,Liquid Retina XDR display,3456*2234,Apple,M1 Max,M1 Max with 10-core CPU,,,32 گیگابایت,unified memory,1 ترابایت,SSD,Apple,32core GPU16core Neural Engine400GB/s memory bandwidth,,122120
+apple,"
+MacBook Air اپل 13 اینچ مدل CTO پردازنده M1 رم 16GB حافظه 256GBB SSD خاکستری
+","
+Apple MacBook Air CTO Gray M1 16GB 256GB SSD 13 inch Laptop
+",16474000,16599000,304.1x 212.4 x 16.1 میلی‌متر,1.4,مک‌بوک,13.3,IPS LED-backlit LCD,1600 * 2560,Apple,M1,Apple M1 Chip,2.8 گیگا هرتز,,16 گیگابایت,,256 گیگابایت,SSD,Apple,7core Apple-designed integrated GPU,,123124
+apple,"
+لپ تاپ اپل 13 اینچ مدل Mac Book Air CTO پردازنده Core i5 رم 16 گیگابایت و حافظه 256 گیگابایت
+","
+MacBook Air CTO 13.3 inch Core i5 16GB RAM 256GB SSD Retina Display Laptop
+",11900000,12000000,305 * 15 * 305 میلیمتر,1.25,مک‌بوک,13.3,IPS,1600 * 2560,INTEL,Core i5,1.1 گیگاهرتز,3.5 گیگاهرتز,,16 گیگابایت,unified memory,256 گیگابایت,SSD,Intel,Intel Iris Plus,,123672
+apple,"
+MacBook Air اپل 13 اینچ مدل MGQN3 پردازنده M1 رم 16GB حافظه 1TB SSD خاکستری
+","
+Apple MacBook Air MGQN3 M1 8Core GPU 8CORE 16GB 1TB SSD 13 inch Laptop
+",17590000,55380000,304.1x 212.4 x 16.1 میلی‌متر,1.29,مک‌بوک,13.3,IPS LED-backlit LCD,1600 * 2560,Apple,M1,Apple M1 Chip,2.8 گیگا هرتز,,16 گیگابایت,unified memory,1 ترابایت,SSD,Apple,8core Apple-designed integrated GPU,,124343
+apple,"
+لپ تاپ اپل 13.6 اینچی مدل Apple MacBook Air 2022 Midnight MLY33  پردازنده M2 رم 8GB حافظه 256GB SSD
+","
+Apple MacBook Air 2022 Midnight MLY33 M2 8GB 256GB SSD 13.6 inch Laptop
+",58000000,27899000,30.41x21.24x1.11 سانتی ‌متر,1.24,مک‌بوک,13.6,13.6inch (diagonal) LED-backlit display with IPS technology ,1600 * 2560,Apple,M2,8core CPU with 4 performance cores and 4 efficiency cores/8core GPU,,,8 گیگابایت,unified memory,256 گیگابایت,SSD,Apple,,,125328
+apple,"
+لپ تاپ اپل 13.6 اینچی مدل Apple MacBook Air 2022 Starlight MLY13  پردازنده M2 رم 8GB حافظه 256GB SSD
+","
+Apple MacBook Air 2022 Starlight MLY13 M2 8GB 256GB SSD 13.6 inch Laptop
+",28210000,28310000,30.41x21.24x1.11 سانتی ‌متر,1.24,مک‌بوک,13.6,13.6inch (diagonal) LED-backlit display with IPS technology ,1600 * 2560,Apple,M2,8core CPU with 4 performance cores and 4 efficiency cores/8core GPU,,,8 گیگابایت,unified memory,256 گیگابایت,SSD,Apple,,,125329
+apple,"
+MacBook Air اپل 13 اینچ مدل MGNA3 2020 پردازنده M1 رم 8GB حافظه 512GB SSD
+","
+Apple MacBook Air MGNA3 2020- 13 inch Laptop
+",35594000,35729000,304.1x 212.4 x 16.1 میلی‌متر,1.29,مک‌بوک,13.3,IPS LED-backlit LCD,1600 * 2560,Apple,M1,Apple M1 Chip,,,8 گیگابایت,,512 گیگابایت,SSD,Apple,8core Apple-designed integrated GPU,,114857
+apple,"
+MacBook Air اپل 13 اینچ مدل MGNE3 2020 پردازنده M1 رم 8GB حافظه 512GB SSD
+","
+Apple MacBook Air MGNE3 2020- 13 inch Laptop
+",63000000,64000000,304.1x 212.4 x 16.1 میلی‌متر,1.29,مک‌بوک,13.3,IPS LED-backlit LCD,1600 * 2560,Apple,M1,Apple M1 Chip,,,8 گیگابایت,,512 گیگابایت,SSD,Apple,8core Apple-designed integrated GPU,,114858
+apple,"
+MacBook Pro اپل 13 اینچ مدل MYDA2 2020 پردازنده M1 رم 8GB حافظه 256GB SSD
+","
+Apple MacBook Pro MYDA2 2020 13 inch Laptop
+",18169000,18299000,304.1x 212.4 x 15.6 میلی‌متر,1.4,مک‌بوک,13.3,IPS LED-backlit LCD,1600 * 2560,Apple,M1,Apple M1 Chip,,,8 گیگابایت,,256 گیگابایت,SSD,Apple,8core Apple-designed integrated GPU,,114859
+apple,"
+MacBook Air اپل 13 اینچ مدل MGN93 2020 پردازنده M1 رم 8GB حافظه 256GB SSD
+","
+Apple MacBook Air MGN93 2020-M1 8GB 256GB 13 inch Laptop
+",48710000,48910000,304.1x 212.4 x 16.1 میلی‌متر,1.29,مک‌بوک,13.3,IPS LED-backlit LCD,1600 * 2560,Apple,M1,Apple M1 Chip,,,8 گیگابایت,,256 گیگابایت,SSD,Apple,7core Apple-designed integrated GPU,,114997
+apple,"
+MacBook Pro اپل 13 اینچ مدل MYDC2 2020 پردازنده M1 رم 8GB حافظه 512GB SSD
+","
+Apple MacBook Pro MYDC2 2020- 13 inch Laptop 
+",35500000,16600000,304.1x 212.4 x 15.6 میلی‌متر,1.4,مک‌بوک,13.3,IPS LED-backlit LCD,1600 * 2560,Apple,M1,Apple M1 Chip,,,8 گیگابایت,,512 گیگابایت,SSD,Apple,,,115148
+apple,"
+لپ تاپ اپل 13 اینچ مدل MacBook Pro CTO 13-inch پردازنده M1 رم 16GB حافظه 512GB SSD
+","
+Apple MacBook Pro CTO 13-inch M1 16GB 512GB Laptop
+",18150000,12000000,30.41*21.24*1.56 میلی‌متر,1.4,مک‌بوک,13.3,IPS technology,1600 * 2560,Apple,M1,Apple M1 Chip,,,16 گیگابایت,,512 گیگابایت,SSD,Apple,,,118239
+apple,"
+لپ تاپ اپل 13 اینچ مدل MacBook Pro CTO 13-inch پردازنده M1 رم 16GB حافظه 1TB SSD
+","
+Apple MacBook Pro CTO 13-inch M1 16GB 1TB Laptop
+",17170000,17370000,30.41*21.24*1.56 میلی‌متر,1.4,مک‌بوک,13.3,IPS technology,1600 * 2560,Apple,M1,Apple M1 Chip,2.8 گیگا هرتز,,16 گیگابایت,,1 ترابایت,SSD,Apple,,,118528
+apple,"
+مک بوک پرو 16 اینچی اپل مدل MacBook Pro 16 inch CTO تاچ بار و صفحه نمایش رتینا
+","
+MacBook Pro 16 inch CTO Core i9 32GB 1TB with Touch Bar and Retina Display Laptop
+",26514000,26699000,16 * 245 * 357 میلیمتر,,مک‌بوک,,Retina displayLED‑backlit display with IPS,3072‑by‑1920 native resolution at 226 pixels ,INTEL,Core i9,2.3 گیگا هرتز,4.8 گیگاهرتز,,32 گیگابایت,DDR4,1 ترابایت,SSD,AMD,AMD Radeon Pro 5500M with 4GB of GDDR6Intel UHD Graphics 630,4 گیگابایت,118708
+apple,"
+MacBook Air اپل 13 اینچ مدل CTO پردازنده M1 رم 16GB حافظه 1TB SSD نقره ای
+","
+Apple MacBook Air CTO SILVER M1 16GB 1TB 13 inch Laptop
+",17750000,66399000,304.1x 212.4 x 16.1 میلی‌متر,1.4,مک‌بوک,13.3,IPS LED-backlit LCD,1600 * 2560,Apple,M1,Apple M1 Chip,2.8 گیگا هرتز,,16 گیگابایت,,1 ترابایت,SSD,Apple,8core Apple-designed integrated GPU,,118909
+apple,"
+MacBook Air اپل 13 اینچ مدل CTO پردازنده M1 رم 16GB حافظه 1TB SSD خاکستری
+","
+Apple MacBook Air CTO Gray M1 16GB 1TB SSD 13 inch Laptop
+",66800000,67800000,304.1x 212.4 x 16.1 میلی‌متر,1.4,مک‌بوک,13.3,IPS LED-backlit LCD,1600 * 2560,Apple,M1,Apple M1 Chip,2.8 گیگا هرتز,,16 گیگابایت,,1 ترابایت,SSD,Apple,7core Apple-designed integrated GPU,,118912
+apple,"
+لپ تاپ اپل 13 اینچ مدل MacBook Pro CTO 13-inch پردازنده M1 رم 16GB حافظه 256GB SSD
+","
+Apple MacBook Pro CTO 13-inch M1 16GB 256GB Laptop
+",46230000,47230000,304.1x212.4x15.6 میلی‌متر,1.4,مک‌بوک,13.3,IPS technology,1600 * 2560,Apple,M1,Apple M1 Chip,2.8 گیگا هرتز,,16 گیگابایت,,256 گیگابایت,SSD,Apple,8core Apple-designed integrated GPU,,121183
+apple,"
+لپ تاپ اپل 13 اینچ مدل MacBook Pro CTO 13-inch پردازنده M1 رم 16GB حافظه 2TB SSD
+","
+Apple MacBook Pro CTO 13-inch M1 16GB 2TB Laptop
+",69514000,69799000,30.41*21.24*1.56 میلی‌متر,1.4,مک‌بوک,13.3,IPS technology,1600 * 2560,Apple,M1,Apple M1 Chip,2.8 گیگا هرتز,,16 گیگابایت,,2 ترابایت,SSD,Apple,8core Apple-designed integrated GPU,,121662
+apple,"
+لپ تاپ 12 اینچی اپل مک بوک مدل MMGM2 2016 با صفحه نمایش رتینا
+","
+MacBook MMGM2 2016 12 Inch with Retina Display Laptop
+",97880000,33299000,3.5 ~ 13.1 * 196.5 * 285 میلیمتر,,مک‌بوک,,IPS LCD,1440 * 2304,INTEL,Core-M5,6th Generation - Skylake,1.2 گیگاهرتز,4 مگابایت,8 گیگابایت,DDR3,512 گیگابایت,SSD,Intel,HD Graphics 515,,45258
+apple,"
+لپ تاپ 12 اینچی اپل مک بوک مدل MLHF2 2016 با صفحه نمایش رتینا
+","
+MacBook MLHF2 2016 12 Inch with Retina Display Laptop
+",170200000,31799000,3.5 ~ 13.1 * 196.5 * 285 میلیمتر,,مک‌بوک,,IPS LCD,1440 * 2304,INTEL,Core-M5,6th Generation - Skylake,1.2 گیگاهرتز,4 مگابایت,8 گیگابایت,DDR3,512 گیگابایت,SSD,Intel,HD Graphics 515,,45259
+apple,"
+لپ تاپ 12 اینچی اپل مک بوک مدل MLH72 2016 با صفحه نمایش رتینا
+","
+MacBook MLH72 2016 12 Inch with Retina Display Laptop
+",27233000,27533000,3.5 ~ 13.1 * 196.5 * 285 میلیمتر,,مک‌بوک,,IPS LCD,1440 * 2304,INTEL,Core-M3,6th Generation - Skylake,1.1 گیگاهرتز,4 مگابایت,8 گیگابایت,DDR3,256 گیگابایت,SSD,Intel,HD Graphics 515,,46603
+apple,"
+لپ تاپ 12 اینچی اپل مک بوک مدل MLH82 2016 با صفحه نمایش رتینا
+","
+MacBook MLH82 2016 12 Inch with Retina Display Laptop
+",34990000,35990000,3.5 ~ 13.1 * 196.5 * 285 میلیمتر,,مک‌بوک,,IPS LCD,1440 * 2304,INTEL,Core-M3,6th Generation - Skylake,1.1 گیگاهرتز,4 مگابایت,8 گیگابایت,DDR3,512 گیگابایت,SSD,Intel,HD Graphics 515,,46604
+apple,"
+لپ تاپ اپل مک بوک پرو مدل MLVP2 دارای تاچ بار
+","
+MacBook Pro 2016 MLVP2 13 inch with Touch Bar and Retina Display Laptop
+",28550000,28750000,14.9 * 212 * 304 میلیمتر,1.37,مک‌بوک,13.3,IPS LCD,1600 * 2560,INTEL,Core i5,2.9 گیگا هرتز,3.3 گیگاهرتز,,8 گیگابایت,DDR3,256 گیگابایت,SSD,Intel,Iris Graphics 550,,48411
+apple,"
+لپ تاپ اپل مک بوک پرو مدل MLH32 دارای تاچ بار
+","
+MacBook Pro 2016 MLH32 15 inch with Touch Bar and Retina Display Laptop
+",45000000,46000000,351 * 15 * 241 میلیمتر,1.81,مک‌بوک,15.4,IPS LCD,1800 * 2880,INTEL,Core i7,6th Generation - Skylake,2.6 گیگا هرتز,6 مگابایت,16 گیگابایت,DDR3,256 گیگابایت,SSD,AMD Radeon ,Pro 450,2 گیگا بایت,48413
+apple,"
+لپ تاپ اپل مک بوک پرو مدل MLH42 دارای تاچ بار
+","
+MacBook Pro 2016 MLH42 15 inch with Touch Bar and Retina Display Laptop
+",46400000,9666000,351 * 15 * 241 میلیمتر,1.81,مک‌بوک,15.4,IPS LCD,1800 * 2880,INTEL,Core i7,2.7 گیگا هرتز,3.6 گیگاهرتز,,16 گیگابایت,DDR3,512 گیگابایت,SSD,AMD Radeon ,Pro 455,2 گیگا بایت,48415
+apple,"
+لپ تاپ اپل مک بوک پرو مدل MLW82 دارای تاچ بار و صفحه رتینا
+","
+MacBook Pro 2016 MLW82 15 inch with Touch Bar and Retina Display Laptop
+",32074000,32199000,351 * 15 * 241 میلیمتر,1.81,مک‌بوک,15.4,IPS LCD,1800 * 2880,INTEL,Core i7,2.7 گیگا هرتز,3.6 گیگاهرتز,,16 گیگابایت,DDR3,512 گیگابایت,SSD,AMD Radeon ,Pro 455,2 گیگا بایت,48416
+apple,"
+لب تاپ اپل مک بوک پرو مدل MLW72 دارای تاچ بار
+","
+MacBook Pro 2016 MLW72 15-inch with Touch Bar and Retina Display Laptop
+",18350000,63599000,351 * 15 * 241 میلیمتر,1.81,مک‌بوک,15.4,IPS LCD,1800 * 2880,INTEL,Core i7,2.6 گیگا هرتز,3.5 گیگاهرتز,,16 گیگابایت,DDR3,256 گیگابایت,SSD,AMD Radeon ,Pro 450,2 گیگا بایت,49042
+apple,"
+لپ تاپ اپل مک بوک پرو مدل MNQF2 دارای تاچ بار و صفحه نمایش رتینا
+","
+MacBook Pro 2016 MNQF2 13 inch with Touch Bar and Retina Display Laptop
+",23000000,47230000,15 * 213 * 305 میلیمتر,1.41,مک‌بوک,13.3,IPS LCD,1600 * 2560,INTEL,Core i5,2.9 گیگا هرتز,3.3 گیگاهرتز,,8 گیگابایت,DDR3,512 گیگابایت,SSD,Intel,Iris Graphics 550,,49498
+apple,"
+لپ تاپ اپل مک بوک ایر ام ام جی جی 2
+","
+MacBook Air 2015 MMGG2 - 13 Inch Laptop
+",12450000,12500000,17 * 227 * 325 میلیمتر,1.35,مک‌بوک,,TFT LED-backlit LCD,900 * 1440,INTEL,Core i5,5th Generation-Broadwell,1.6 گیگاهرتز,3 مگابایت,8 گیگابایت,DDR3,256 گیگابایت,SSD,Intel,HD Graphics 5000,,42243
+apple,"
+لپ تاپ 12 اینچی اپل مک بوک مدل MLHE2 2016 با صفحه نمایش رتینا
+","
+MacBook MLHE2 2016 12 Inch with Retina Display Laptop
+",42200000,42650000,3.5 ~ 13.1 * 196.5 * 285 میلیمتر,,مک‌بوک,,IPS LCD,1440 * 2304,INTEL,Core-M3,6th Generation - Skylake,1.1 گیگاهرتز,4 مگابایت,8 گیگابایت,DDR3,256 گیگابایت,SSD,Intel,HD Graphics 515,,45255
+apple,"
+لب تاپ اپل مک بوک پرو مدل ام دی 101
+","
+MacBookPro-MD101
+",28630000,28730000,325 × 227 × 24.1 میلی‌متر,2.3,,,LED-Backlit Display TFT LCD,800 * 1280,INTEL,Core i5,i5-3210M  ,2.5 گیگا هرتز,,4 گیگابایت,DDR3,500 گیگابایت,SATA,Intel,HD Graphics 4000,,1172
+apple,"
+لپ تاپ اپل مک بوک پرو ام جی ال یو 2 با پردازنده i7
+","
+MacBook Pro MJLU2 15 Inch with Retina Display
+",23670000,23770000,18 * 247 * 359 میلیمتر,2.04,نوت بوک (لپ تاپ),15.5,IPS LCD,1800 * 2880,INTEL,Core i7,Haswell,2.8 گیگا هرتز,6 مگابایت,16 گیگابایت,DDR3,8 گیگابایت1 ترابایت,SSD,AMD Radeon ,R9 M370X GDDR5,2 گیگا بایت,7662
+apple,"
+لپ تاپ اپل مک بوک پرو ام جی ال کیو 2
+","
+MacBook Pro MJLQ2 15 Inch with Retina Display
+",152800000,154800000,13.1 * 196.5 * 285 میلیمتر,2.2,,15.4,IPS LCD,1800 * 2880,INTEL,Core i7,2.2 گیگا هرتز,6 مگابایت,,16 گیگابایت,DDR3,256 گیگابایت,SSD,Intel,Intel Iris Pro Graphics,1.5 گیگابایت,2845
+apple,"
+لپ تاپ اپل مک بوک پرو ام جی ال تی 2 با پردازنده i7
+","
+MacBook Pro MJLT2 15 Inch with Retina Display
+",54380000,55380000,18 * 247 * 358 میلیمتر,,نوت بوک (لپ تاپ),15.4,LED-backlit Retina display,1800 * 2880,INTEL,Core i7,Haswell,2.5 گیگا هرتز,6 مگابایت,16 گیگابایت,DDR3,512 گیگابایت,SSD,AMD Radeon ,Radeon R9 M370X GDDR5,2 گیگا بایت,4304
